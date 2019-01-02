@@ -1,0 +1,220 @@
+<!doctype html>
+<html lang="de">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Tools für die Netzwerkanalyse</title>
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/afeld/bootstrap-toc@1.0.0/dist/bootstrap-toc.min.css">
+    <style>
+        body {
+            line-height: 20px;
+            font-size: 14px;
+        }
+        h2 {
+            padding-bottom: 9px;
+            margin: 40px 0 20px;
+            border-bottom: 1px solid #eee;
+        }
+        code {
+            font-family: "SFMono-Regular",Consolas,"Liberation Mono",Menlo,Courier,monospace;
+            color: #0891D5;
+            padding: 0.2em 0.4em;
+            margin: 0;
+            font-size: 12px;
+            background-color: rgba(27,31,35,0.05);
+            border-radius: 3px;
+        }
+        .anchorjs-link {
+            font-weight: 400;
+            color: #0891D5;
+            transition: color .16s linear;
+        }
+        .anchorjs-link:hover {
+            color: #0891D5;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body data-spy="scroll" data-target="#toc">
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-3">
+            <nav id="toc" class="sticky-top"></nav>
+        </div>
+        <div id="content" class="col-sm-9"></div>
+    </div>
+</div>
+
+<script type="text/x-markdown" id="markdown">
+## Die 10 wichtigsten Tools für die Netzwerkanalyse mit der Kommandozeile cmd
+
+### 1.
+ 
+##### Zeigt die IP-Konfiguration des lokalen Systems an
+    
+
+      C:\Windows\System32> ipconfig
+      [/all] Detaillierte Ausgabe aller Parameter
+      [/renew] IP-Adresse vom DHCP-Server
+      [/release] IP-Adresse freigeben
+      [/displaydns] Inhalt des DNS-Caches anzeigen
+      [/flushdns] DNS-Cache löschen
+      [/registerdns] DNS-Record registrieren 
+
+
+### 2. 
+
+##### Zeigt die Zuordnung von MAC-Adressen zu IP-Adressen an
+  
+
+      c:\Windows\System32> arp
+      [-a] Zeigt alle Zuordnungen an.
+
+
+### 3.
+
+##### Zeigt den DNS-Hostnamen des lokalen Systems an
+
+
+      c:\Windows\System32> hostname
+
+
+### 4.
+
+##### Löst den DNS-Namen bzw. die IP-Adresse auf dem primären DNS-Server auf
+
+
+      c:\Windows\System32> nslookup
+ 
+
+### 5.
+
+##### Zeigt TCP / IP Statistiken an
+ 
+
+      c:\Windows\System32> netstat
+      Standardmäßig werden die momentan offenen Verbindungen angezeigt
+      [-a] Zeigt auch serverseitige Verbindungen an.
+      [-n] Zeit IP-Adressen und Portnummern an.
+      [-p] Hiermit kann ein bestimmtes Protokoll gewählt werden.
+      [-o] Zeigt zu jeder Verbindung die Prozess PID an
+ 
+
+### 6.
+
+##### Zeigt die Route zum Ziel und berechnet für jeden Abschnitt Statistiken
+
+
+      c:\Windows\System32> pathping
+      [-h] Setzt einen Maximalwert für die Hops Anzahl
+      [-4] Erzwingt die Verwendung von IPv4
+
+
+### 7.
+
+##### Es wird ein Ping an einen Rechnernamen oder IP-Adresse ausgeführt
+
+
+      c:\Windows\System32> ping
+      [-t] Der ping läuft so lange bis er per Tastenkombination abgebrochen wird
+      [-l] Setzt die Länge der Pakete in Byte
+
+### 8.
+
+##### Zeigt die Routingtabelle an und lässt Konfigurationen zu
+   
+
+      c:\Windows\System32> route
+      [print] Zeigt alle Routingeinträge an
+      [add] Fügt einen Routingeintrag hinzu
+      [delete] löschen einen Routingeintrag 
+
+
+### 9.
+
+##### Zeigt die Namenstabelle und aktuelle Verbindungen von NetBIOS über TCP an
+
+
+      c:\Windows\System32> nbtstat
+      [-c] Zeigt den Inhalt des Cache an.
+      [-n] Zeigt lokale NetBIOS Namenszuordnungen an
+      [-R] Löst den Cache
+
+
+### 10.
+
+##### Zeigt die Route zum Ziel an
+
+
+      c:\Windows\System32> tracert
+      [-h] Setzt die maximale Anzahl von Hops, welche zur Zielsuche verwendet werden dürfen 
+
+</script>
+
+<script src="//cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/popper.js@1.14.1/dist/umd/popper.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/marked@0.3.19/marked.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/anchor-js@4.1.0/anchor.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/transliteration.cyr@1.0.5/lib/transliteration.cyr.js"></script>
+<script src="//cdn.jsdelivr.net/gh/afeld/bootstrap-toc@1.0.0/dist/bootstrap-toc.min.js"></script>
+
+<script>
+    (function ($, marked, anchors, transliteration) {
+        var markdown = $('#markdown').text();
+
+        // Найдем списки параметров и результатов
+        markdown = markdown.replace(
+            /^(Параметры|Результат)$\r?\n^(.*?)^(?=\w|$|Параметры|Результат)/mug,
+            function (match, g1, g2) {
+                // Преобразуем пробельные символы в markdown списки
+                // но только для параметров (обычно они начинаются с латинских символов)
+                g2 = g2.replace(/^( *?) {4}([a-zA-Z0-9_]+)/mg, '$1* `$2`');
+
+                // —
+                g2 = g2.replace(/ - /g, ' — ');
+
+                return `\n**${g1}**\n${g2}`;
+            }
+        );
+
+        // Кастомный рендерер
+        var renderer = new marked.Renderer();
+
+        // Id заголовков транслитом
+        renderer.heading = function (text, level) {
+            var anchor = transliteration.transliterate(text).toLowerCase().replace(/[^\w]+/g, '-');
+            return `<h${level} id="${anchor}">${text}</h${level}>`;
+        };
+
+        // Отключение автоматического создания ссылок
+        renderer.link = function (href, title, text) {
+            if (href.replace('mailto:', '') === text && title == null) {
+                return text;
+            }
+            return `<a href="${href}" title="${title}">${text}</a>`;
+        };
+
+        // Преобразование markdown в html
+        $('#content').html(marked(markdown, {renderer: renderer}));
+
+        // Добавление якорей
+        anchors.options = {
+            icon: '#',
+        };
+        anchors.add();
+
+        $(function () {
+            // Оглавление
+            var $toc = $('#toc');
+            Toc.init($toc);
+
+            // Scrollspy
+            $('body').scrollspy({target: $toc});
+        });
+    }(jQuery, marked, anchors, transliteration));
+</script>
+</body>
+</html>
