@@ -26,7 +26,14 @@
  
        Personal data in secured and hardened Nextcloud-Server
        
-       The gateway host now uses the nginx reverse proxy capabilities to redirect requests to another vhost based on the destination (directory). There is then again a virtual host per web application. These always use the same server name (the local IP) but different ports. Since the vHosts only work server-internally "behind" the gateway host and only the gateway host is the direct interface to the Internet / the clients, the selection of the ports is irrelevant here. As a result, no further ports need to be opened in the firewall, as all web applications seem to use the standard ports 80 and 443. Which web application should ultimately be addressed is determined only by the subdirectory of the web root (and not by the combination domain / port).
+       The gateway host now uses the nginx reverse proxy capabilities to redirect requests to another 
+       vhost based on the destination (directory). There is then again a virtual host per web application. 
+       These always use the same server name (the local IP) but different ports. Since the vHosts only work 
+       server-internally "behind" the gateway host and only the gateway host is the direct interface to 
+       the Internet / the clients, the selection of the ports is irrelevant here. 
+       As a result, no further ports need to be opened in the firewall, as all web applications seem to 
+       use the standard ports 80 and 443. Which web application should ultimately be addressed is determined 
+       only by the subdirectory of the web root (and not by the combination domain / port).
        
        <a href="https://user-images.githubusercontent.com/24189833/51089287-12735a80-176b-11e9-8e3d-342b87ec44cc.png">Gateway-Host und einzelne vHosts pro Webanwendung</a>
        
