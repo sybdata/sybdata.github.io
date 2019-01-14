@@ -56,7 +56,11 @@
                 * Netfilter (Fail2ban)
 		
 	<b>3. Outline Manager, developed by Jigsaw. The Outline servers, powered by Shadowsocks 
-
+	
+	       * Outline Server: a proxy server that runs a Shadowsocks instance for each access 
+	         key and a REST API to manage the access keys. The Outline Server runs in a Docker container in the host machine.
+               * Outline Manager: an Electron application that can create Outline Servers on the cloud and talks to their access key 
+	         management API to manage who has access to the server.
      
        
  <b>Education:</b>
