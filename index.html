@@ -76,12 +76,107 @@
   	<b>1. Container docker sybdata/proxyalpine:tag
 	
 	      * <a href="https://user-images.githubusercontent.com/24189833/47601789-ea7b2300-d9d5-11e8-9b6d-54c3829cb36a.png">AceStream</a> + <a href="https://user-images.githubusercontent.com/24189833/51075114-a10eab80-1687-11e9-84fd-5a748a71c804.png">HTTPAceProxy</a>
-	      The broadcast author starts acestreamengine with the --stream-source or --stream-source-node option.
+The broadcast author starts acestreamengine with the --stream-source or --stream-source-node option.
 The engine creates 3 files: acelive, sauth and restart. Then he starts distributing.
 Acelive file is a direct analogue of a torrent file. It contains the title "AceStreamTransport", then comes the encrypted block, presented in bencode format.
 The data block is encrypted with the aes-128-cbc algorithm with a fixed key embedded in the engine code.
 Infohash from acelive is sha1 (bencode (selected list of parameters from acelive in a specific order)).
 The favorites list includes name, authmethod, pubkey, piece_length, chunk_length, bitrate, provider_key. Probably some others, if they are present in acelive.
+authmethod:  'RSA'
+bitrate:  215512
+categories:
+  #0  'informational'
+chunk_length:  16384
+name:  'Sky News HD'
+permanent:  1
+piece_length:  262144
+provider_key:  'e595cd5c59887abc2cef6d1833bb1d19'
+pubkey:  MHowDQYJKoZIhvcNAQEBBQADaQAwZgJhAMvP9L5cwfPuziC2WPi1N4zEy7UaGBlFveuNLMQGxCXmhlRsNoaP2McuM/zUwaYVw80IjRkHPze5qCM6NzTm5mCSfWMusp26ZHqGzrBsU0Kmn0r8RxupEmVPleG/PJxLeQIBAw==
+quality:  'HD'
+trackers:
+  #0  'http://217.12.199.132:2710/announce'
+  #1  'http://50.7.133.30:2710/announce'
+
+Decrypted bencode block :
+
+     0 : 64 31 30 3a 61 75 74 68 6d 65 74 68 6f 64 33 3a [d10:authmethod3:]
+    10 : 52 53 41 37 3a 62 69 74 72 61 74 65 69 32 31 35 [RSA7:bitratei215]
+    20 : 35 31 32 65 31 30 3a 63 61 74 65 67 6f 72 69 65 [512e10:categorie]
+    30 : 73 6c 31 33 3a 69 6e 66 6f 72 6d 61 74 69 6f 6e [sl13:information]
+    40 : 61 6c 65 31 32 3a 63 68 75 6e 6b 5f 6c 65 6e 67 [ale12:chunk_leng]
+    50 : 74 68 69 31 36 33 38 34 65 34 3a 6e 61 6d 65 31 [thi16384e4:name1]
+    60 : 31 3a 53 6b 79 20 4e 65 77 73 20 48 44 39 3a 70 [1:Sky News HD9:p]
+    70 : 65 72 6d 61 6e 65 6e 74 69 31 65 31 32 3a 70 69 [ermanenti1e12:pi]
+    80 : 65 63 65 5f 6c 65 6e 67 74 68 69 32 36 32 31 34 [ece_lengthi26214]
+    90 : 34 65 31 32 3a 70 72 6f 76 69 64 65 72 5f 6b 65 [4e12:provider_ke]
+    A0 : 79 33 32 3a 65 35 39 35 63 64 35 63 35 39 38 38 [y32:e595cd5c5988]
+    B0 : 37 61 62 63 32 63 65 66 36 64 31 38 33 33 62 62 [7abc2cef6d1833bb]
+    C0 : 31 64 31 39 36 3a 70 75 62 6b 65 79 31 32 34 3a [1d196:pubkey124:]
+    D0 : 30 7a 30 0d 06 09 2a 86 48 86 f7 0d 01 01 01 05 [0z0...*.H.......]
+    E0 : 00 03 69 00 30 66 02 61 00 cb cf f4 be 5c c1 f3 [..i.0f.a.....\..]
+    F0 : ee ce 20 b6 58 f8 b5 37 8c c4 cb b5 1a 18 19 45 [.. .X..7.......E]
+   100 : bd eb 8d 2c c4 06 c4 25 e6 86 54 6c 36 86 8f d8 [...,...%..Tl6...]
+   110 : c7 2e 33 fc d4 c1 a6 15 c3 cd 08 8d 19 07 3f 37 [..3...........?7]
+   120 : b9 a8 23 3a 37 34 e6 e6 60 92 7d 63 2e b2 9d ba [..#:74..`.}c....]
+   130 : 64 7a 86 ce b0 6c 53 42 a6 9f 4a fc 47 1b a9 12 [dz...lSB..J.G...]
+   140 : 65 4f 95 e1 bf 3c 9c 4b 79 02 01 03 37 3a 71 75 [eO...<.Ky...7:qu]
+   150 : 61 6c 69 74 79 32 3a 48 44 38 3a 74 72 61 63 6b [ality2:HD8:track]
+   160 : 65 72 73 6c 33 35 3a 68 74 74 70 3a 2f 2f 32 31 [ersl35:http://21]
+   170 : 37 2e 31 32 2e 31 39 39 2e 31 33 32 3a 32 37 31 [7.12.199.132:271]
+   180 : 30 2f 61 6e 6e 6f 75 6e 63 65 33 32 3a 68 74 74 [0/announce32:htt]
+   190 : 70 3a 2f 2f 35 30 2e 37 2e 31 33 33 2e 33 30 3a [p://50.7.133.30:]
+   1A0 : 32 37 31 30 2f 61 6e 6e 6f 75 6e 63 65 65 65    [2710/announceee]
+
+Infohash : 7e488d7b3ed85eb2d174455be0b1c8ae90809bb0
+Infohash computed as sha1 of :
+     0 : 6c 6c 34 3a 6e 61 6d 65 31 31 3a 53 6b 79 20 4e [ll4:name11:Sky N]
+    10 : 65 77 73 20 48 44 65 6c 31 30 3a 61 75 74 68 6d [ews HDel10:authm]
+    20 : 65 74 68 6f 64 33 3a 52 53 41 65 6c 36 3a 70 75 [ethod3:RSAel6:pu]
+    30 : 62 6b 65 79 31 32 34 3a 30 7a 30 0d 06 09 2a 86 [bkey124:0z0...*.]
+    40 : 48 86 f7 0d 01 01 01 05 00 03 69 00 30 66 02 61 [H.........i.0f.a]
+    50 : 00 cb cf f4 be 5c c1 f3 ee ce 20 b6 58 f8 b5 37 [.....\.... .X..7]
+    60 : 8c c4 cb b5 1a 18 19 45 bd eb 8d 2c c4 06 c4 25 [.......E...,...%]
+    70 : e6 86 54 6c 36 86 8f d8 c7 2e 33 fc d4 c1 a6 15 [..Tl6.....3.....]
+    80 : c3 cd 08 8d 19 07 3f 37 b9 a8 23 3a 37 34 e6 e6 [......?7..#:74..]
+    90 : 60 92 7d 63 2e b2 9d ba 64 7a 86 ce b0 6c 53 42 [`.}c....dz...lSB]
+    A0 : a6 9f 4a fc 47 1b a9 12 65 4f 95 e1 bf 3c 9c 4b [..J.G...eO...<.K]
+    B0 : 79 02 01 03 65 6c 31 32 3a 70 69 65 63 65 5f 6c [y...el12:piece_l]
+    C0 : 65 6e 67 74 68 69 32 36 32 31 34 34 65 65 6c 31 [engthi262144eel1]
+    D0 : 32 3a 63 68 75 6e 6b 5f 6c 65 6e 67 74 68 69 31 [2:chunk_lengthi1]
+    E0 : 36 33 38 34 65 65 6c 37 3a 62 69 74 72 61 74 65 [6384eel7:bitrate]
+    F0 : 69 32 31 35 35 31 32 65 65 6c 31 32 3a 70 72 6f [i215512eel12:pro]
+   100 : 76 69 64 65 72 5f 6b 65 79 33 32 3a 65 35 39 35 [vider_key32:e595]
+   110 : 63 64 35 63 35 39 38 38 37 61 62 63 32 63 65 66 [cd5c59887abc2cef]
+   120 : 36 64 31 38 33 33 62 62 31 64 31 39 65 65       [6d1833bb1d19ee]
+
+Peers query links :
+http://217.12.199.132:2710/announce?info_hash=%7EH%8D%7B%3E%D8%5E%B2%D1tE%5B%E0%B1%C8%AE%90%80%9B%B0 	[UA] AS15626 ITL Company 	trace whois
+http://50.7.133.30:2710/announce?info_hash=%7EH%8D%7B%3E%D8%5E%B2%D1tE%5B%E0%B1%C8%AE%90%80%9B%B0 	[NL] AS174 Cogent Communications 	trace whois
+
+Found 8 peers on tracker 'http://217.12.199.132:2710/announce' :
+185.74.?.?:1060 	[RU] AS59730 Demos Telecom LLC 	scan
+178.254.?.?:8621 	[DE] AS42730 EVANZO e-commerce GmbH 	scan
+31.148.?.?:8622 	[UA] AS49491 PE Sukonnik Mukola Valeriyovuch 	scan
+176.230.?.?:8621 	[IL] AS12400 Partner Communications Ltd. 	scan
+92.251.?.?:8622 	[MT] AS12709 Melita plc. 	scan
+78.63.?.?:8621 	[LT] AS8764 Telia Lietuva, AB 	scan
+95.149.?.?:8622 	[GB] AS12576 EE Limited 	scan
+210.187.?.?:8621 	[MY] AS4788 TM Net, Internet Service Provider 	scan
+
+Found 9 peers on tracker 'http://50.7.133.30:2710/announce' :
+95.149.?.?:8622 	[GB] AS12576 EE Limited 	scan
+178.254.?.?:8621 	[DE] AS42730 EVANZO e-commerce GmbH 	scan
+176.230.?.?:8621 	[IL] AS12400 Partner Communications Ltd. 	scan
+92.251.?.?:8622 	[MT] AS12709 Melita plc. 	scan
+176.100.?.?:8622 	[RU] AS44941 ZAO Astrakhan Digital Television 	scan
+210.187.?.?:8621 	[MY] AS4788 TM Net, Internet Service Provider 	scan
+78.63.?.?:8621 	[LT] AS8764 Telia Lietuva, AB 	scan
+31.148.?.?:8622 	[UA] AS49491 PE Sukonnik Mukola Valeriyovuch 	scan
+185.74.?.?:1060 	[RU] AS59730 Demos Telecom LLC 	scan
+
+Exact IP addresses with standard ports 8621..8639 or from Russia are hidden to protect privacy
+
+
 	      * HTTPAceProxy allows you to watch Ace Stream live streams or BitTorrent files over HTTP
 	      * Supported tags and respective Dockerfile links:
 	        
