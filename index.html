@@ -80,6 +80,8 @@ The broadcast author starts acestreamengine with the --stream-source or --stream
 The engine creates 3 files: acelive, sauth and restart. Then he starts distributing.
 Acelive file is a direct analogue of a torrent file. It contains the title "AceStreamTransport", then comes the encrypted block, presented in bencode format.
 The data block is encrypted with the aes-128-cbc algorithm with a fixed key embedded in the engine code.
+When creating a stream, each time a pair of 768-bit RSA keys is generated to authenticate the distribution source.
+The private key is placed in the sauth file in the PEM format, the public in binary form is placed in acelive.
 Infohash from acelive is sha1 (bencode (selected list of parameters from acelive in a specific order)).
 The favorites list includes name, authmethod, pubkey, piece_length, chunk_length, bitrate, provider_key. Probably some others, if they are present in acelive.
 =======================================================================================================
