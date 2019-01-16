@@ -73,9 +73,15 @@
 
  <b>Project:</b>
 
-  	<b>1. Container docker sybdata/proxyalpine:tag
+  	<b>1. Container docker AceStream + HTTPAceProxy
 	
-	      * <a href="https://user-images.githubusercontent.com/24189833/47601789-ea7b2300-d9d5-11e8-9b6d-54c3829cb36a.png">AceStream</a> + <a href="https://user-images.githubusercontent.com/24189833/51198895-cef92780-18f5-11e9-9402-eabfd5b7dd42.png">HTTPAceProxy</a>
+	      * <a href="https://user-images.githubusercontent.com/24189833/47601789-ea7b2300-d9d5-11e8-9b6d-54c3829cb36a.png">AceStream</a> 
+	      * <a href="https://user-images.githubusercontent.com/24189833/51198895-cef92780-18f5-11e9-9402-eabfd5b7dd42.png">HTTPAceProxy</a>
+	      * Ace Stream is more than just BitTorrent client for file exchange via P2P-networks!
+	      * The main directions of platform specialization: AVoD (Audio and Video on Demand), Live Stream (live broadcast), localization of foreign BitTorrent traffic, decentralized social networks, and IOTT (Interactive-Over-The-Top)
+	      Note: Ace Stream users watch online video with audio-visual quality level ten times greater than quality of video on YouTube (provided in 1080p format) and many times greater than broadcasts/shows of all other existing services of VoD and Live Stream provided by OTT (Over The Top) service operators, which do not use P2P technology.
+
+No existing Live Stream service or standard CDN operator using unicast can provide live broadcast with the same high level quality, for the same number of viewers, that can be provided by the average Ace Stream user from his personal computer using home Internet-channel!
 The broadcast author starts acestreamengine with the --stream-source or --stream-source-node option.
 The engine creates 3 files: acelive, sauth and restart. Then he starts distributing.
 Acelive file is a direct analogue of a torrent file. It contains the title "AceStreamTransport", then comes the encrypted block, presented in bencode format.
