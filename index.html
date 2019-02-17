@@ -5,12 +5,6 @@
 </head>
 
 <body bgcolor="#cbcec8">
-.center {
- display: block;
- margin-left: auto;
- margin-right: auto;
- width: 50%;
-}
 <pre>
 	<b>John Doe</b>
 				email:xxxx
@@ -42,9 +36,9 @@
        As a result, no further ports need to be opened in the firewall, as all web applications seem to 
        use the standard ports 80 and 443. Which web application should ultimately be addressed is determined 
        only by the subdirectory of the web root (and not by the combination domain / port).
-       
+<center>    
 <img src="https://user-images.githubusercontent.com/24189833/52920396-1109f480-330c-11e9-9b33-f4e4556132c3.png" alt="Gateway-Host und einzelne vHosts pro Webanwendung.png" class="center"/>
-
+</center>
 
 
        <b>2. mailcow dockerized with multiple containers linked in one bridged network. Each container represents a single application.
