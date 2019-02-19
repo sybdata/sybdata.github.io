@@ -55,7 +55,7 @@ img.emoji {
 <link rel="icon" href="https://sybdata.de/wordpress/wp-content/uploads/2018/11/cropped-161140371_S-192x192.png" sizes="192x192" />
 <link rel="apple-touch-icon-precomposed" href="https://sybdata.de/wordpress/wp-content/uploads/2018/11/cropped-161140371_S-180x180.png" />
 <meta name="msapplication-TileImage" content="https://sybdata.de/wordpress/wp-content/uploads/2018/11/cropped-161140371_S-270x270.png" />
-<link rel="stylesheet" id="et-core-unified-cached-inline-styles" href="https://sybdata.de/wordpress/wp-content/cache/et/292/et-core-unified-15506080953607.min.css" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)" /></head>
+<link rel="stylesheet" id="et-core-unified-cached-inline-styles" href="https://sybdata.de/wordpress/wp-content/cache/et/292/et-core-unified-1550614319755.min.css" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)" /></head>
 <body class="page-template-default page page-id-292 page-child parent-pageid-258 et_pb_button_helper_class et_fullwidth_nav et_fixed_nav et_show_nav et_hide_primary_logo et_cover_background et_pb_gutter windows et_pb_gutters3 et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_pb_footer_columns4 et_header_style_fullscreen et_header_style_left et_pb_pagebuilder_layout et_right_sidebar et_divi_theme et-db et_minified_js et_minified_css">
 	<div id="page-container">
 
@@ -271,25 +271,27 @@ gconfig: # grafische Oberfläche, basierend auf GTK+</pre>
 <pre class="EnlighterJSRAW" data-enlighter-language="python">make -j4 bzImage modules</pre>
 <h4><span class="tlid-translation translation"><span title="">Kompilieren</span> <span class="" title="">und der Aufbau</span> <span title="">des Linux-Kernels</span> <span title="">eine erhebliche Menge an</span> <span title="">Zeit</span> <span title="">gehen</span> <span title="">nehmen</span><span title="">.</span> <span class="" title="">Die Erstellungszeit hängt von den Ressourcen Ihres Systems ab, wie zum Beispiel dem verfügbaren CPU-Kern und der aktuellen Systemlast.</span> <span class="" title="">Also etwas Geduld.</span></span></h4>
 <p> </p>
-<h2>Install the Linux kernel und die Module</h2>
+<h2>Kernel und die Module installieren </h2>
 <pre class="EnlighterJSRAW" data-enlighter-language="python">make modules_install install</pre>
 <h2> </h2>
-<h4><span class="tlid-translation translation"><span class="" title="">Es werden drei Dateien im / boot-Verzeichnis installiert und die Kernel-Grub-Konfigurationsdatei geändert:</span></span></h4>
+<h4><span class="tlid-translation translation"><span class="" title="">Es werden vier Dateien im / boot-Verzeichnis installiert und die Kernel-Grub-Konfigurationsdatei geändert:</span></span></h4>
 <ul>
 <li><strong>initramfs-4.20.10.img</strong></li>
 <li><strong>System.map-4.20.10</strong></li>
 <li><strong>vmlinuz-4.20.10</strong></li>
+<li><strong>config-4.20.10</strong></li>
 </ul>
 <p> </p>
-<h2><span class="tlid-translation translation"><span class="" title="">Schritt 6. Aktualisieren Sie die Grub-Konfiguration</span></span></h2>
+<h2><span class="tlid-translation translation"><span class="" title="">Schritt 6. Aktualisieren die Grub-Konfiguration</span></span></h2>
 <h4><span class="tlid-translation translation"><span class="" title="">Die folgenden Befehle sind optional, da make install alles für Sie tut, hier jedoch nur aus historischen Gründen enthalten ist:</span></span></h4>
-<pre class="EnlighterJSRAW" data-enlighter-language="python">update-initramfs -c -k 4.20.10
-update-grub</pre>
-<h4><span class="tlid-translation translation"><span class="" title="">Starten Sie den Linux-Computer neu und booten Sie in Ihrem neuen Kernel:</span></span></h4>
-<pre class="EnlighterJSRAW" data-enlighter-language="python">reboot</pre>
-<h4><span class="tlid-translation translation"><span class="" title="">Überprüfen Sie nach dem Neustart die neue Linux-Kernel-Version:</span></span></h4>
+<pre class="EnlighterJSRAW" data-enlighter-language="python">update-initramfs -c -k 4.20.10 # optional
+update-grub # optional</pre>
+<h4><img class="aligncenter size-full wp-image-354" src="https://sybdata.de/wordpress/wp-content/uploads/2019/02/1k3.png" alt="" width="641" height="185" srcset="https://sybdata.de/wordpress/wp-content/uploads/2019/02/1k3.png 641w, https://sybdata.de/wordpress/wp-content/uploads/2019/02/1k3-300x87.png 300w" sizes="(max-width: 641px) 100vw, 641px" /></h4>
+<h4><span class="tlid-translation translation"><span class="" title="">Starten den Linux-Computer neu und booten Sie in Ihrem neuen Kernel:</span></span></h4>
+<pre class="EnlighterJSRAW" data-enlighter-language="python">shutdown –r now</pre>
+<h4><span class="tlid-translation translation"><span class="" title="">Überprüfen nach dem Neustart die neue Linux-Kernel-Version:</span></span></h4>
 <pre class="EnlighterJSRAW" data-enlighter-language="python">uname -mrs</pre>
-<p> </p>
+<p><img class="aligncenter size-full wp-image-357" src="https://sybdata.de/wordpress/wp-content/uploads/2019/02/1k4.png" alt="" width="602" height="184" srcset="https://sybdata.de/wordpress/wp-content/uploads/2019/02/1k4.png 602w, https://sybdata.de/wordpress/wp-content/uploads/2019/02/1k4-300x92.png 300w" sizes="(max-width: 602px) 100vw, 602px" /></p>
 <p> </p>
 <p> </p>
 <pre><span class="tlid-translation translation"><span class="" title=""> </span></span></pre>
