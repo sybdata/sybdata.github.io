@@ -1,7 +1,6 @@
 DROP DATABASE patienten;
 CREATE DATABASE patienten;
 USE patienten;
-
 CREATE TABLE patient (
 p_id INT(128) NOT NULL AUTO_INCREMENT PRIMARY KEY,
 vorname VARCHAR(32),
