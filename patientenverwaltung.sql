@@ -1,4 +1,3 @@
-DROP DATABASE patienten;
 CREATE DATABASE patienten;
 USE patienten;
 
