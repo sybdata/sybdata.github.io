@@ -7,7 +7,7 @@ CREATE TABLE patient (
 p_id INT(128) NOT NULL AUTO_INCREMENT PRIMARY KEY,
 vorname VARCHAR(32),
 nachname VARCHAR(32),
-geburtsdatum DATE
+geburtsdatum DATE,
 z_id INT(128)
 );
 
