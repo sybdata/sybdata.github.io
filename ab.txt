@@ -1,0 +1,59 @@
+<html>
+<head>
+<title>Abfrage DB Patienten</title>
+</head>
+<body>
+
+<?php
+        $user = "root";
+        $servername = "127.0.0.1";
+        $password = "Pa$$w0rd";
+        $dbname = "patienten";
+
+//Verbindung zur Datenbank aufbauen
+$conn = new mysqli($servername, $user, $password, $dbname);
+
+
+if (!$conn) {
+    die("Connection failed: " . mysqli_connect_error());
+}
+echo "Verbindung hergestellt<br /><br />";
+
+//Datenabfrage ausfueren
+$sql = "SELECT vorname,nachname,z_id FROM patient";
+$sql .= " WHERE vorname like '" . $_POST["vor"] . "%'"
+        . " AND nachname like '" . $_POST["nach"] . "%'";
+
+// Anfrage an Server senden
+$res = mysqli_query($con, $sql);
+
+// Anzahl der Datensaetze
+$num = mysqli_num_rows($res);
+if ($num==0) echo "Keine passenden Datensaetze gefunden";
+
+//Tabellenbeginn
+echo "<table border='1'>";
+
+//Ueberschrift
+echo "<tr> <td>Vorname</td> <td>Nachname</td>";
+echo "<td>Zimmernummer</td></tr>";
+while($dsatz = mysqli_fetch_assoc($res))
+{
+        echo "<tr>";
+        echo "<td>" . $dsatz["vorname"] ."</td> ";
+        echo "<td>" . $dsatz["nachname"] . "</td>";
+        echo "<td>" . $dsatz["z_id"] ."</td>";
+        echo "</tr>";
+}
+
+//Tabellenende
+echo "</table>";
+
+// Verbindung schliessen
+mysqli_close($con);
+ ?>
+<p>
+        <input type="button" value="Zurueck zum Formular" onclick="location.href='formular_abfrage_patient.html'" />
+</p>
+</body>
+</html>
