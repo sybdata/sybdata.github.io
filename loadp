@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html class="html" lang="ru-RU" itemscope itemtype="http://schema.org/WebPage">
+<html class="html" lang="ru-RU" itemscope itemtype="https://schema.org/WebPage">
 <head>
 	<meta charset="UTF-8">
-	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
 
 	<title>мой личный сайт блог</title>
 <meta property="og:type" content="website" />
