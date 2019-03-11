@@ -1,8 +1,8 @@
 site_name: "Pi-hole documentation"
-site_url: https://docs.pi-hole.net
+site_url: https://sybdata.github.io/docs/
 repo_url: "https://github.com/pi-hole/pi-hole/"
 edit_uri: ""
-copyright: 'Copyright &copy; 2018 Pi-hole LLC'
+copyright: 'Copyright &copy; 2019 Pi-hole LLC'
 remote_branch: gh-pages
 theme:
   name: 'material'
@@ -107,7 +107,7 @@ nav:
 extra:
   social:
     - type: globe
-      link: https://pi-hole.net
+      link: https://sybdata.github.io/docs
     - type: github-alt
-      link: https://github.com/pi-hole
+      link: https://sybdata.github.io/docs
 extra_css: [extra.css]
