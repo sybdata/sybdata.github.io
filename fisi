@@ -1,0 +1,719 @@
+<!DOCTYPE html>
+<html lang="de-DE">
+<head>
+	<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://sybdata.de/wordpress/xmlrpc.php" />
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<script>var et_site_url='https://sybdata.de/wordpress';var et_post_id='168';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
+</script><title>SybDATA | Hardware experimente, Tech-Community</title>
+<link rel='dns-prefetch' href='//sybdata.de' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="SybDATA &raquo; Feed" href="https://sybdata.de/wordpress/feed/" />
+<link rel="alternate" type="application/rss+xml" title="SybDATA &raquo; Kommentar-Feed" href="https://sybdata.de/wordpress/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/sybdata.de\/wordpress\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<meta content="Divi v.3.21.1" name="generator"/><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://sybdata.de/wordpress/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://sybdata.de/wordpress/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-css'  href='https://sybdata.de/wordpress/wp-content/themes/Divi/style.css?ver=3.21.1' type='text/css' media='all' />
+<link rel='stylesheet' id='et-builder-googlefonts-cached-css'  href='https://fonts.googleapis.com/css?family=Share+Tech%3Aregular%7COpen+Sans%3A300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic&#038;ver=5.1.1#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://sybdata.de/wordpress/wp-includes/css/dashicons.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='enlighter-local-css'  href='https://sybdata.de/wordpress/wp-content/plugins/enlighter/resources/EnlighterJS.min.css?ver=3.9.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://sybdata.de/wordpress/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://sybdata.de/wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://sybdata.de/wordpress/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://sybdata.de/wordpress/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://sybdata.de/wordpress/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.1.1" />
+<link rel="canonical" href="https://sybdata.de/wordpress/" />
+<link rel='shortlink' href='https://sybdata.de/wordpress/' />
+<link rel="alternate" type="application/json+oembed" href="https://sybdata.de/wordpress/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsybdata.de%2Fwordpress%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://sybdata.de/wordpress/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsybdata.de%2Fwordpress%2F&#038;format=xml" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><link rel="icon" href="https://sybdata.de/wordpress/wp-content/uploads/2018/11/cropped-161140371_S-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://sybdata.de/wordpress/wp-content/uploads/2018/11/cropped-161140371_S-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://sybdata.de/wordpress/wp-content/uploads/2018/11/cropped-161140371_S-180x180.png" />
+<meta name="msapplication-TileImage" content="https://sybdata.de/wordpress/wp-content/uploads/2018/11/cropped-161140371_S-270x270.png" />
+<link rel="stylesheet" id="et-core-unified-cached-inline-styles" href="https://sybdata.de/wordpress/wp-content/cache/et/168/et-core-unified-15541493272387.min.css" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)" /></head>
+<body class="home page-template-default page page-id-168 et_pb_button_helper_class et_fullwidth_nav et_fixed_nav et_show_nav et_hide_primary_logo et_cover_background et_pb_gutter windows et_pb_gutters3 et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_pb_footer_columns4 et_header_style_fullscreen et_header_style_left et_pb_pagebuilder_layout et_right_sidebar et_divi_theme et-db et_minified_js et_minified_css">
+	<div id="page-container">
+
+	
+					<div class="et_slide_in_menu_container">
+							<span class="mobile_menu_bar et_toggle_fullscreen_menu"></span>
+			
+								<div class="et_slide_menu_top">
+
+											<div class="et_pb_top_menu_inner">
+																			<form role="search" method="get" class="et-search-form" action="https://sybdata.de/wordpress/">
+					<input type="search" class="et-search-field" placeholder="Suchen &hellip;" value="" name="s" title="Suchen nach:" />					<button type="submit" id="searchsubmit_header"></button>
+				</form>
+			
+															</div> <!-- .et_pb_top_menu_inner -->
+				
+				</div> <!-- .et_slide_menu_top -->
+			
+			<div class="et_pb_fullscreen_nav_container">
+				
+				<ul id="mobile_menu_slide" class="et_mobile_menu">
+
+																	<li ><a href="https://sybdata.de/wordpress/">Start</a></li>
+						
+						<li class="page_item page-item-3"><a href="https://sybdata.de/wordpress/datenschutzerklaerung/">Datenschutzerklärung</a></li>
+<li class="page_item page-item-168 current_page_item"><a href="https://sybdata.de/wordpress/" aria-current="page">FiSi_18-20</a></li>
+<li class="page_item page-item-24"><a href="https://sybdata.de/wordpress/startseite/">Startseite</a></li>
+										
+				</ul>
+			</div>
+		</div>
+		
+			<header id="main-header" data-height-onload="66">
+			<div class="container clearfix et_menu_container">
+							<div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="https://sybdata.de/wordpress/">
+						<img src="https://sybdata.de/wordpress/wp-content/uploads/2018/11/nlx2.png" alt="SybDATA" id="logo" data-height-percentage="54" />
+					</a>
+				</div>
+							<div id="et-top-navigation" data-height="66" data-fixed-height="40">
+					
+					
+											<span class="mobile_menu_bar et_pb_header_toggle et_toggle_fullscreen_menu"></span>
+					
+					
+									</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+			<div class="et_search_outer">
+				<div class="container et_search_form_container">
+					<form role="search" method="get" class="et-search-form" action="https://sybdata.de/wordpress/">
+					<input type="search" class="et-search-field" placeholder="Suchen &hellip;" value="" name="s" title="Suchen nach:" />					</form>
+					<span class="et_close_search_field"></span>
+				</div>
+			</div>
+		</header> <!-- #main-header -->
+			<div id="et-main-area">
+	
+<div id="main-content">
+
+
+			
+				<article id="post-168" class="post-168 page type-page status-publish hentry">
+
+				
+					<div class="entry-content">
+					<div id="et-boc" class="et-boc">
+			
+			<div class="et_builder_inner_content et_pb_gutters3">
+				<div class="et_pb_section et_pb_section_0 et_pb_with_background et_pb_section_parallax et_pb_fullwidth_section et_section_regular">
+				
+				<div class="et_parallax_bg" style="background-image: url(https://sybdata.de/wordpress/wp-content/uploads/2018/11/it-services-02.jpg);"></div>
+				
+				
+					<section class="et_pb_module et_pb_fullwidth_header et_pb_fullwidth_header_0 et_hover_enabled et_pb_bg_layout_dark et_pb_text_align_center">
+				
+				
+				<div class="et_pb_fullwidth_header_container center">
+					<div class="header-content-container center">
+					<div class="header-content">
+						
+						<h1 class="et_pb_module_header">IT-FiSi 2018-2020</h1>
+						
+						<div class="et_pb_header_content_wrapper"><p>
+Demnächst verfügbar</p></div>
+						
+					</div>
+				</div>
+					
+				</div>
+				<div class="et_pb_fullwidth_header_overlay"></div>
+				<div class="et_pb_fullwidth_header_scroll"></div>
+			</section>
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_1 et_section_specialty et_section_transparent">
+				
+				
+				
+				<div class="et_pb_row et_pb_gutters2">
+					<div class="et_pb_column et_pb_column_1_2 et_pb_column_0    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_0 et_animated et_pb_bg_layout_dark  et_pb_text_align_right  et_pb_blurb_position_top">
+				
+				
+				<div class="et_pb_blurb_content">
+					
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><a href="https://www.microsoft.com/en-US/learning/certification-overview.aspx">Advanced skills with Microsoft Certification</a></h4>
+						<div class="et_pb_blurb_description">
+							
+						</div><!-- .et_pb_blurb_description -->
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_2 et_pb_column_1   et_pb_specialty_column  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_row_inner et_pb_row_inner_0">
+				<div class="et_pb_column et_pb_column_1_4 et_pb_column_inner et_pb_column_inner_0   et_pb_column_empty">
+				
+				
+				
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4 et_pb_column_inner et_pb_column_inner_1   et_pb_column_empty">
+				
+				
+				
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row_inner -->
+			</div> <!-- .et_pb_column -->
+				</div> <!-- .et_pb_row -->
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_2 et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_0">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_2    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_1 et_animated et_pb_bg_layout_dark  et_pb_text_align_left  et_pb_blurb_position_left">
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><img src="https://sybdata.de/wordpress/wp-content/uploads/2018/11/line-icons-53.png" alt="" class="et-waypoint et_pb_animation_off" /></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header">Installation und Konfiguration</h4>
+						<div class="et_pb_blurb_description">
+							
+						</div><!-- .et_pb_blurb_description -->
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb --><div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_ et_pb_module ">
+				<a class="et_pb_button et_pb_button_0 et_animated et_hover_enabled et_pb_bg_layout_light" href="https://sybdata.de/wordpress/installation-und-konfiguration/">Learn More</a>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_3    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_blurb et_pb_blurb_2 et_animated et_clickable et_pb_bg_layout_light  et_pb_text_align_left  et_pb_blurb_position_left">
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><a href="https://sybdata.de/wordpress/network/"><span class="et_pb_image_wrap"><img src="https://sybdata.de/wordpress/wp-content/uploads/2018/11/global_64px.png" alt="" class="et-waypoint et_pb_animation_off" /></span></a></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><a href="https://sybdata.de/wordpress/network/">Network Experience</a></h4>
+						<div class="et_pb_blurb_description">
+							<p>
+&nbsp;</p>
+						</div><!-- .et_pb_blurb_description -->
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb --><div class="et_pb_button_module_wrapper et_pb_button_1_wrapper et_pb_button_alignment_ et_pb_module ">
+				<a class="et_pb_button et_pb_button_1 et_animated et_hover_enabled et_pb_bg_layout_light" href="https://sybdata.de/wordpress/network/">Learn More</a>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_4    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_3 et_animated et_pb_bg_layout_dark  et_pb_text_align_left  et_pb_blurb_position_left">
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><a href="https://sybdata.de"><span class="et_pb_image_wrap"><img src="https://sybdata.de/wordpress/wp-content/uploads/2018/11/line-icons-76.png" alt="" class="et-waypoint et_pb_animation_off" /></span></a></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><a href="https://sybdata.de">Cloud Experience</a></h4>
+						<div class="et_pb_blurb_description">
+							
+						</div><!-- .et_pb_blurb_description -->
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb --><div class="et_pb_button_module_wrapper et_pb_button_2_wrapper et_pb_button_alignment_ et_pb_module ">
+				<a class="et_pb_button et_pb_button_2 et_animated et_hover_enabled et_pb_bg_layout_light" href="https://sybdata.de">Learn More</a>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_1">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_5    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_4 et_animated et_pb_bg_layout_light  et_pb_text_align_left  et_pb_blurb_position_left">
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><img src="https://sybdata.de/wordpress/wp-content/uploads/2018/11/lifesaver_64px.png" alt="" class="et-waypoint et_pb_animation_off" /></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header">Virus and Spyware Removal</h4>
+						<div class="et_pb_blurb_description">
+							<pre>Demnächst verfügbar</pre>
+						</div><!-- .et_pb_blurb_description -->
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb --><div class="et_pb_button_module_wrapper et_pb_button_3_wrapper et_pb_button_alignment_ et_pb_module ">
+				<a class="et_pb_button et_pb_button_3 et_animated et_hover_enabled et_pb_bg_layout_light" href="">Learn More</a>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_6    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_blurb et_pb_blurb_5 et_animated et_pb_bg_layout_light  et_pb_text_align_left  et_pb_blurb_position_left">
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><img src="https://sybdata.de/wordpress/wp-content/uploads/2018/11/layers_64px.png" alt="" class="et-waypoint et_pb_animation_off" /></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header">Disaster Recovery</h4>
+						<div class="et_pb_blurb_description">
+							<pre>Demnächst verfügbar</pre>
+						</div><!-- .et_pb_blurb_description -->
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb --><div class="et_pb_button_module_wrapper et_pb_button_4_wrapper et_pb_button_alignment_ et_pb_module ">
+				<a class="et_pb_button et_pb_button_4 et_animated et_hover_enabled et_pb_bg_layout_light" href="">Learn More</a>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_7    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_6 et_animated et_pb_bg_layout_dark  et_pb_text_align_left  et_pb_blurb_position_left">
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><img src="https://sybdata.de/wordpress/wp-content/uploads/2018/11/line-icons-35.png" alt="" class="et-waypoint et_pb_animation_off" /></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header">Secure and Hardening</h4>
+						<div class="et_pb_blurb_description">
+							
+						</div><!-- .et_pb_blurb_description -->
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb --><div class="et_pb_button_module_wrapper et_pb_button_5_wrapper et_pb_button_alignment_ et_pb_module ">
+				<a class="et_pb_button et_pb_button_5 et_animated et_hover_enabled et_pb_bg_layout_light" href="https://sybdata.de/wordpress/secure-and-hardening/">Learn More</a>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_3 et_pb_with_background et_pb_section_parallax et_pb_fullwidth_section et_section_regular">
+				
+				<div class="et_parallax_bg" style="background-image: url(https://sybdata.de/wordpress/wp-content/uploads/2019/03/1k40-1.png);"></div>
+				
+				
+					<section class="et_pb_module et_pb_fullwidth_header et_pb_fullwidth_header_1 et_hover_enabled et_pb_header_with_image et_pb_bg_layout_dark et_pb_text_align_left">
+				
+				
+				<div class="et_pb_fullwidth_header_container left">
+					<div class="header-content-container center">
+					<div class="header-content">
+						
+						<h2 class="et_pb_module_header">Hyperconverged Infrastructure</h2>
+						
+						<div class="et_pb_header_content_wrapper"><pre class="et_pb_module_header">VMware vSAN</pre></div>
+						<a class="et_pb_button et_pb_more_button et_pb_button_one" href="https://storagehub.vmware.com/t/vmware-vsan/">vSAN documents</a>
+					</div>
+				</div>
+					<div class="header-image-container center">
+					<div class="header-image">
+						<img src="https://sybdata.de/wordpress/wp-content/uploads/2019/03/vSAN-01.png" alt="" title="" />
+					</div>
+				</div>
+				</div>
+				<div class="et_pb_fullwidth_header_overlay"></div>
+				<div class="et_pb_fullwidth_header_scroll"></div>
+			</section>
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_4 et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_2">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_8    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0 et_pb_bg_layout_light  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<h2 class="title"><strong>8 Rules to be successful in IT</strong></h2>
+<pre><span class="text-by">By</span> <span class="author vcard"><a class="url fn n" title="View this post by Patrick Gruenauer" href="https://sid-500.com/2018/07/04/8-rules-to-be-successful-in-information-technology-it/" rel="author">www.sid-500.com®</a></span></pre>
+<p>&nbsp;</p>
+				</div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_toggle et_pb_toggle_0 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">1 Stay hungry and curious</h5>
+				<div class="et_pb_toggle_content clearfix">
+					<p>Always be inquisitive. Knowledge is power. Craftsmanship is no longer as important in our industry as it used to be. Even if you are already on the top of the hill, remember that there’s always someone who’s better than you. Try to be as good as he is.</p>
+				</div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_module et_pb_toggle et_pb_toggle_1 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">2 Never give up</h5>
+				<div class="et_pb_toggle_content clearfix">
+					<p>Have you seen Rocky I? Rocky Balboa’s goal was to make it through 15 rounds. He achieved it. But at the end he still lost. But he actually won, because he achieved his personal goal. Find your personal goal. If you fall down, get up and move on again and again.</p>
+<p>Recently a former classmate asked me: “Is it difficult to write blog posts”. I answered: “Yes, it is. You have to read over the article again and again. You have to put yourself in the readers shoes. You have to check the codes, commands and the wording again and again.”</p>
+				</div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_module et_pb_toggle et_pb_toggle_2 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">3 Keep an eye on the latest technologies</h5>
+				<div class="et_pb_toggle_content clearfix">
+					<p>It’s in the nature of man to demonize new things. I still remember the messages relating to authentication with biometric data such as fingerprint. That’s insecure. Sure? All smartphones now have a fingerprint sensor and face recognition is on it’s way to become the standard authentication method. This is called progress. Don’t listen to naysayers who demonize all new.</p>
+<p>Some time ago I had a discussion with a colleague. He said face recognition is not secure. My answer was: “Are passwords secure? Remember Keylogger and Shoulder Surfing. Nothing in this world is 100% secure.”</p>
+<p>It’s always the same with new technologies: “First you are laughed at and then it becomes standard.”</p>
+				</div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_module et_pb_toggle et_pb_toggle_3 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">4 Be aware that you’ll only need 50% technical skills</h5>
+				<div class="et_pb_toggle_content clearfix">
+					<p>Decisive for success is not only technical know-how, but social competence. Remember that the one who is technically not so experienced, but does his job reliably, will be the better one. That’s the  way it is.</p>
+<p>I always tell my students a story about a professional and a beginner. The professional can solve the problem but does not do it in time. The beginner asks the professional and then solves the problem in time. It does not matter to the user. The problem is solved. Which one will the user be more satisfied with?</p>
+				</div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_module et_pb_toggle et_pb_toggle_4 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">5 Be aware that not everyone shares your passion</h5>
+				<div class="et_pb_toggle_content clearfix">
+					<p>Some people are lucky. Their profession is their passion. Respect people who don’t share your passion. They do their work only for their income. This also means that they may not as much motivated as you are. Accept that.</p>
+				</div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_module et_pb_toggle et_pb_toggle_5 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">6 Everybody here puts his pants on the same way as you</h5>
+				<div class="et_pb_toggle_content clearfix">
+					<p>Don’t let yourself be deterred by supposedly better educated people. Believe in yourself. No matter what education you have, if you work hard, you’ll be better than the others.</p>
+				</div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_module et_pb_toggle et_pb_toggle_6 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">7 Once you have learned the basics, specialize in a topic that you enjoy most</h5>
+				<div class="et_pb_toggle_content clearfix">
+					<p>The time of the generalists is over. The new all-rounders are electricians who configure houses as smart homes and car mechanics who equip cars with technology. Behind them, IT specialists do their work. That’s you. Choose the topic you enjoy most and try to be really good at it, no matter what it is.</p>
+				</div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_module et_pb_toggle et_pb_toggle_7 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">8 Don’t be extreme</h5>
+				<div class="et_pb_toggle_content clearfix">
+					<p>Some invest everything in safety. Some don’t care. Keep in mind that a balance between comfort, functionality and safety should be guaranteed. Of course in relation to the respective environment.</p>
+<p>The Security Triangle illustrates the situation. The ball is in the middle and can move in one direction or the other as needed. Find a good relationship between the three areas.</p>
+<p>Here’s a balanced situation, suitable for most companies.</p>
+				</div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_2 et_pb_column_9    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_0 et_always_center_on_mobile">
+				
+				
+				<span class="et_pb_image_wrap "><img src="https://sybdata.de/wordpress/wp-content/uploads/2019/03/scf5.jpg" alt="" /></span>
+			</div><div class="et_pb_module et_pb_text et_pb_text_1 et_pb_bg_layout_light  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<p>The graph below shows an environment focusing on comfort. It lacks security features and is vulnerable to attacks. Many believe that they have a safe environment. However, it is not the case for most of them.</p>
+				</div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_image et_pb_image_1 et_always_center_on_mobile">
+				
+				
+				<span class="et_pb_image_wrap "><img src="https://sybdata.de/wordpress/wp-content/uploads/2019/03/2Diagramm.png" alt="" /></span>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_5 et_pb_with_background et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_3">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_10    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_2 et_always_center_on_mobile">
+				
+				
+				<span class="et_pb_image_wrap "><img src="https://sybdata.de/wordpress/wp-content/uploads/2019/03/1k41.png" alt="" /></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_2 et_pb_column_11    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_2 et_pb_bg_layout_light  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<h3>Hyper-converged infrastructure documentation(Windows Server)</h3>
+<p>Consolidate software-defined compute, storage, and networking into one cluster to provide high-performance, cost-effective, and easily scalable virtualization.</p>
+				</div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_toggle et_pb_toggle_8 et_clickable et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">Hyper-V</h5>
+				<div class="et_pb_toggle_content clearfix">
+					<p>
+Virtualizes server hardware, enabling you to run virtual machines across servers in a hyper-converged cluster</p>
+				</div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_module et_pb_toggle et_pb_toggle_9 et_clickable et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">Storage Spaces Direct</h5>
+				<div class="et_pb_toggle_content clearfix">
+					<p>
+Virtualizes storage hardware, enabling you to create volumes on top of a virtualized pool of drives spread across servers in a hyper-converged cluster.</p>
+				</div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_module et_pb_toggle et_pb_toggle_10 et_clickable et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">Failover Clustering</h5>
+				<div class="et_pb_toggle_content clearfix">
+					<p>
+Groups multiple servers together so that workloads such as virtual machines can run on any server in the cluster, load-balancing and failing over gracefully between servers.</p>
+				</div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_module et_pb_toggle et_pb_toggle_11 et_clickable et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">Software Defined Networking</h5>
+				<div class="et_pb_toggle_content clearfix">
+					<p>
+Virtualizes your network hardware, enabling you to dynamically create and manage networks and policies that abstract your workloads from underlying physical networks.</p>
+				</div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_module et_pb_toggle et_pb_toggle_12 et_clickable et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">Windows Server Software-Defined (WSSD)</h5>
+				<div class="et_pb_toggle_content clearfix">
+					<p>
+Pairs Windows Server virtualization and clustering technologies with validated hardware solutions by the partner of your choice, helping to take the guesswork out of tuning a software-defined datacenter.</p>
+				</div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_6 et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_4">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_12    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_3 et_pb_bg_layout_light  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<h3>Software Defined Networking (SDN)</h3>
+<p>Get ready to implement Software Defined Networking, which virtualizes your network to abstract physical hardware network elements such as switches and routers.</p>
+				</div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_toggle et_pb_toggle_13 et_clickable et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">What&#039;s New in SDN for Windows Server 2019</h5>
+				<div class="et_pb_toggle_content clearfix">
+					<p>
+Learn about the new and updated features of SDN.</p>
+				</div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_module et_pb_toggle et_pb_toggle_14 et_clickable et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">Software Defined Networking (SDN) overview</h5>
+				<div class="et_pb_toggle_content clearfix">
+					<p>
+Learn how you can centrally configure and manage physical and virtual network devices.</p>
+				</div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_module et_pb_toggle et_pb_toggle_15 et_clickable et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">Key components of SDN architecture</h5>
+				<div class="et_pb_toggle_content clearfix">
+					<p>
+Learn about the SDN technologies included in Windows Server 2016.</p>
+				</div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_module et_pb_toggle et_pb_toggle_16 et_clickable et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">Security for SDN</h5>
+				<div class="et_pb_toggle_content clearfix">
+					<p>
+Learn about implementing and managing security for SDN, including authentication and virtual encryption.</p>
+				</div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_2 et_pb_column_13    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_code et_pb_code_0">
+				
+				
+				<div class="et_pb_code_inner">
+					<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/f501zUUcXD0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div> <!-- .et_pb_code_inner -->
+			</div> <!-- .et_pb_code --><div class="et_pb_module et_pb_image et_pb_image_3 et_always_center_on_mobile">
+				
+				
+				<span class="et_pb_image_wrap "><img src="https://sybdata.de/wordpress/wp-content/uploads/2018/11/it-services-12.jpg" alt="" /></span>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_7 et_pb_with_background et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_5">
+				<div class="et_pb_column et_pb_column_1_5 et_pb_column_14    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_7 et_pb_bg_layout_dark  et_pb_text_align_left  et_pb_blurb_position_top">
+				
+				
+				<div class="et_pb_blurb_content">
+					
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html">Training &amp; Certifications Cisco</a></h4>
+						<div class="et_pb_blurb_description">
+							
+						</div><!-- .et_pb_blurb_description -->
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_5 et_pb_column_15    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_8 et_pb_bg_layout_dark  et_pb_text_align_left  et_pb_blurb_position_top">
+				
+				
+				<div class="et_pb_blurb_content">
+					
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><a href="https://docs.microsoft.com/de-de/">Microsoft-Dokumentation</a></h4>
+						<div class="et_pb_blurb_description">
+							
+						</div><!-- .et_pb_blurb_description -->
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_5 et_pb_column_16    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_6_wrapper et_pb_button_alignment_ et_pb_module ">
+				<a class="et_pb_button et_pb_button_6 et_animated et_pb_bg_layout_dark" href="https://sybdata.de/testssl/" target="_blank">TLS Server Test</a>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_5 et_pb_column_17    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_9 et_pb_bg_layout_dark  et_pb_text_align_left  et_pb_blurb_position_top">
+				
+				
+				<div class="et_pb_blurb_content">
+					
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header">TOX-ID:</h4>
+						<div class="et_pb_blurb_description">
+							<p>&nbsp;</p>
+<pre>164B7C1915D537D60DF6C0F2226EF968495F91FE0A985ED2D6BFE5EE1CF1512D7653D879021F</pre>
+<pre> </pre>
+						</div><!-- .et_pb_blurb_description -->
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_5 et_pb_column_18    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_image et_pb_image_4 et_always_center_on_mobile">
+				
+				
+				<a href="https://sybdata.de/wordpress/wp-content/uploads/2019/03/IMG_0672.png" class="et_pb_lightbox_image" title=""><span class="et_pb_image_wrap has-box-shadow-overlay"><div class="box-shadow-overlay"></div><img src="https://sybdata.de/wordpress/wp-content/uploads/2019/03/IMG_0672.png" alt="" /></span></a>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section -->			</div>
+			
+		</div>					</div> <!-- .entry-content -->
+
+				
+				</article> <!-- .et_pb_post -->
+
+			
+
+</div> <!-- #main-content -->
+
+
+			<footer id="main-footer">
+				
+
+		
+				<div id="footer-bottom">
+					<div class="container clearfix">
+				<div id="footer-info">Proudly ❤ powered by SybData.de © 2017 - 2019 | Made in U.S.S.R.</div>					</div>	<!-- .container -->
+				</div>
+			</footer> <!-- #main-footer -->
+		</div> <!-- #et-main-area -->
+
+
+	</div> <!-- #page-container -->
+
+		<script type="text/javascript">
+				var et_animation_data = [{"class":"et_pb_blurb_0","style":"slideLeft","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"5%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_blurb_1","style":"fold","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_button_0","style":"fold","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_blurb_2","style":"fold","repeat":"once","duration":"1000ms","delay":"450ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_button_1","style":"fold","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_blurb_3","style":"fold","repeat":"once","duration":"1000ms","delay":"100ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_button_2","style":"fold","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_blurb_4","style":"fold","repeat":"once","duration":"1000ms","delay":"150ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_button_3","style":"fold","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_blurb_5","style":"fold","repeat":"once","duration":"1000ms","delay":"200ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_button_4","style":"fold","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_blurb_6","style":"fold","repeat":"once","duration":"1000ms","delay":"300ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_button_5","style":"fold","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_button_6","style":"flip","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"}];
+				var et_link_options_data = [{"class":"et_pb_blurb_2","url":"https:\/\/sybdata.de\/wordpress\/network\/","target":"_self"},{"class":"et_pb_toggle_8","url":"https:\/\/docs.microsoft.com\/de-de\/windows-server\/virtualization\/hyper-v\/index","target":"_self"},{"class":"et_pb_toggle_9","url":"https:\/\/docs.microsoft.com\/de-de\/windows-server\/storage\/storage-spaces\/storage-spaces-direct-overview","target":"_self"},{"class":"et_pb_toggle_10","url":"https:\/\/docs.microsoft.com\/de-de\/windows-server\/failover-clustering\/failover-clustering-overview","target":"_self"},{"class":"et_pb_toggle_11","url":"https:\/\/docs.microsoft.com\/windows-server\/networking\/sdn\/","target":"_self"},{"class":"et_pb_toggle_12","url":"https:\/\/www.microsoft.com\/cloud-platform\/software-defined-datacenter","target":"_self"},{"class":"et_pb_toggle_13","url":"https:\/\/docs.microsoft.com\/en-us\/windows-server\/networking\/sdn\/sdn-whats-new","target":"_self"},{"class":"et_pb_toggle_14","url":"https:\/\/docs.microsoft.com\/en-us\/windows-server\/networking\/sdn\/software-defined-networking","target":"_self"},{"class":"et_pb_toggle_15","url":"https:\/\/docs.microsoft.com\/en-us\/windows-server\/networking\/sdn\/technologies\/Software-Defined-Networking-Technologies","target":"_self"},{"class":"et_pb_toggle_16","url":"https:\/\/docs.microsoft.com\/en-us\/windows-server\/networking\/sdn\/security\/sdn-security-top","target":"_self"}];
+			</script>
+	<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/sybdata.de\/wordpress\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://sybdata.de/wordpress/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://sybdata.de/wordpress/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_shortcodes_strings = {"previous":"Vorherige","next":"N\u00e4chste"};
+var et_pb_custom = {"ajaxurl":"https:\/\/sybdata.de\/wordpress\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/sybdata.de\/wordpress\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/sybdata.de\/wordpress\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"fd42ea82ec","subscription_failed":"Bitte \u00fcberpr\u00fcfen Sie die Felder unten aus, um sicherzustellen, dass Sie die richtigen Informationen eingegeben.","et_ab_log_nonce":"f1715126c7","fill_message":"Bitte f\u00fcllen Sie die folgenden Felder aus:","contact_error_message":"Bitte folgende Fehler beheben:","invalid":"Ung\u00fcltige E-Mail","captcha":"Captcha","prev":"Vorherige","previous":"Vorherige","next":"Weiter","wrong_captcha":"Sie haben die falsche Zahl im Captcha eingegeben.","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"168","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":""};
+var et_pb_box_shadow_elements = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://sybdata.de/wordpress/wp-content/themes/Divi/js/custom.min.js?ver=3.21.1'></script>
+<script type='text/javascript' src='https://sybdata.de/wordpress/wp-content/themes/Divi/core/admin/js/common.js?ver=3.21.1'></script>
+<script type='text/javascript' src='https://sybdata.de/wordpress/wp-content/plugins/enlighter/resources/mootools-core-yc.js?ver=3.9.0'></script>
+<script type='text/javascript' src='https://sybdata.de/wordpress/wp-content/plugins/enlighter/resources/EnlighterJS.min.js?ver=3.9.0'></script>
+<script type='text/javascript' src='https://sybdata.de/wordpress/wp-includes/js/wp-embed.min.js?ver=5.1.1'></script>
+<script type="text/javascript">/* <![CDATA[ */EnlighterJS_Config = {"selector":{"block":"pre.EnlighterJSRAW","inline":"code.EnlighterJSRAW"},"language":"python","theme":"atomic","indent":2,"hover":"hoverEnabled","showLinenumbers":true,"rawButton":true,"infoButton":true,"windowButton":true,"rawcodeDoubleclick":false,"grouping":true,"cryptex":{"enabled":false,"email":"mail@example.tld"}};!function(){var a=function(a){var b="Enlighter Error: ";console.error?console.error(b+a):console.log&&console.log(b+a)};return window.addEvent?"undefined"==typeof EnlighterJS?void a("Javascript Resources not loaded yet!"):"undefined"==typeof EnlighterJS_Config?void a("Configuration not loaded yet!"):void window.addEvent("domready",function(){EnlighterJS.Util.Init(EnlighterJS_Config.selector.block,EnlighterJS_Config.selector.inline,EnlighterJS_Config)}):void a("MooTools Framework not loaded yet!")}();;/* ]]> */</script></body>
+</html>
