@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Ace Link</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/video.js/7.6.5/video-js.css" rel="stylesheet">
+    <style>
+        body, html, video, .video-js {
+            margin: 0;
+            padding: 0;
+            width: 100vw;
+            height: 100vh;
+        }
+        .video-js .vjs-big-play-button {
+            top: 45%;
+            left: 50%;
+            transform: translate(-50% -50%);
+        }
+    </style>
+</head>
+<body>
+<video id="v" class="video-js vjs-default-skin" controls autoplay preload></video>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/video.js/7.6.5/video.js"></script>
+<script>
+    const player = videojs("v");
+    player.src({
+        src: `http://207.180.215.232:8100/s/ace/566950205072656d69657265204844/hls/v3/i.m3u8`,
+        type: 'application/x-mpegURL',
+    });
+    document.title += ` – ${id.substr(0, 7)}`;
+</script>
+</body>
+</html>
