@@ -1,0 +1,1601 @@
+#EXTM3U
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://peers.tv/data/illustrations/ills/2013/11/06/25843/25843682.png", Первый HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/1kanal_hd/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://peers.tv/data/illustrations/ills/2013/11/06/25843/25843823.png", Россия HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/russiahd/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://peers.tv/data/illustrations/ills/2015/10/08/55753/55753431.png", Первый канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/1kanal/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/01/198300/198300771.png", Россия 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/rossija/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/02/16/89112/89112167.png", Пятый канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/5kanal/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://peers.tv/data/illustrations/ills/2016/05/30/70554/70554232.png", НТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/ntv/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/01/198300/198300803.png", Россия К
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/kultura/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/03/198504/198504724.png", ОТР
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/otvrus/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/14/102078/102078544.png", ТВЦ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/tvc/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/11/25/180618/180618038.png", Рен ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/rentv/126/vh2500w/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/10/27/107313/107313226.png", СТС
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/sts/126/vh2500w/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/04/101331/101331365.png", Домашний
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/domashny/126/vh2500w/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/14/102078/102078492.png", ТВ-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/tv3/16/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://peers.tv/data/illustrations/ills/2013/11/06/25842/25842280.png", Мир
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/mir/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/05/08/126491/126491669.png", ТНТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/tnt/16/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/08/29/139862/139862055.png", Че!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/perec/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/01/26/115379/115379376.png", ОТС HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/ots/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/04/101331/101331394.png", Енисей
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/enisey/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/08/101630/101630255.png", КРИК-ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/krik_tv/16/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/14/102078/102078586.png", ТНВ-Татарстан
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/tnv_tatarstan/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Другие" tvg-logo="http://peers.tv/data/illustrations/ills/2016/05/31/70617/70617628.png", Союз
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/soyuz/16/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/01/101141/101141610.png", 49 КАНАЛ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/49kanal/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/07/05/164429/164429360.png", Брянская Губерния
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/bryanskaya_guberniya/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/09/101694/101694447.png", НВК САХА
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/nvk_saha/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/09/101694/101694784.png", ННТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/nntv/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/04/101331/101331284.png", БСТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/bst/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/10/15/175105/175105831.png", Вся Уфа
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/vsya_ufa/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/01/101141/101141591.png", 8 канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/8_kanal/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/14/102078/102078574.png", ТИВИКОМ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/tivikom/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/11/21/179843/179843642.png", ТВК
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/tvk_6/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/04/101331/101331235.png", Ариг Ус
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/arig_us/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Другие" tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/03/198503/198503442.png", Kazakh TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/kazakh_tv/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/03/01/118791/118791565.png", Кубань 24 ОРБИТА
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/kuban24/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/21/104702/104702816.png", Катунь 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/katun_24/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные", REN TV Baltic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/rentv_balt/126/vh2500w/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/12/19/147996/147996043.png", TVCi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/tvci/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/02/21/89525/89525628.png", Центральное телевидение
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/tvc_ctv/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/10/29/176991/176991402.png", Туапсе24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/tuapse24/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/04/101331/101331388.png", Евпатория ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/evpatorija/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/04/101331/101331290.png", Ветта 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/vetta_24/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/11/21/179843/179843655.png", Тюменское Время
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/tyumen/16/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Другие" tvg-logo="http://peers.tv/data/illustrations/ills/2017/05/31/96832/96832799.png", CCTV-4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/cctv_4/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/13/104184/104184043.png", Эхо-ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/echotv/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/09/101694/101694453.png", Ника ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/nika/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/08/09/167583/167583381.png", ТК Центр Красноярск HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/ckry/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/10/20/106785/106785491.png", Астрахань 24 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/astrahan_24_hd/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/02/19/152574/152574126.png", Инфо 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/shadr_info/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/01/30/189902/189902993.png", Мир Белогорья
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/mir_belogorya/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/03/198504/198504737.png", Краснодар он-лайн
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/krasnodar_on_layn/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2018/03/30/122197/122197203.png", Про100ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/pro100/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/05/08/126491/126491658.png", Архыз24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/arhyz24/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/03/21/121178/121178622.png", Барс
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/barsplus/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/03/25/156698/156698427.png", АИСТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/aist/16/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/10/24/143731/143731172.png", Удмуртия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/udmurtiya/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные", ТРК Губерния
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/trk_guberniya/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/11/11/178769/178769979.png", ОРТРК-12 КАНАЛ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/ortrk12/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/05/31/129158/129158720.png", ОТВ Челябинск
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/otv_chlb/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/05/25/128332/128332967.png", С1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/s1/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/11/16/145417/145417066.png", Сургут 86
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/86/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/06/15/131331/131331721.png", НТС
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/nts/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/06/28/133272/133272571.png", ТМ-КВАНТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/tmkvant/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/09/04/140304/140304129.png", Саратов 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/saratov_24/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Другие" tvg-logo="http://peers.tv/data/illustrations/ills/2019/12/05/181698/181698490.png", CGTN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/cgtn/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/07/31/138060/138060849.png", Башкортостан 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/bashkortostan_24/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/08/20/139330/139330444.png", Алмазный край
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/almazny_kray/16/gvh1w/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/09/18/141199/141199638.png", Первый Тульский
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/pervyy_tulskiy/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/01/17/187907/187907652.png", АРИС 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/aris_24/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/10/31/144288/144288126.png", ОРТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/orenburg_rt/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/02/04/190812/190812111.png", ГТРК Кузбасс
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/gtrk_kuzbass/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные", Между.Net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/mezhdu_net/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/10/16/143178/143178599.png", НАШ ДОМ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/nash_dom/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/11/16/145415/145415997.png", Юрган
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/yurgan/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/10/22/143609/143609565.png", Липецкое время
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/lipetskoye_vremya/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/11/02/144351/144351601.png", Ноябрьск 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/noyabrsk24/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/05/31/161872/161872682.png", Арктика 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/arktika_24/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/09/10/140724/140724142.png", Сочи 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/sochi24/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/06/03/162258/162258417.png", Эфир-Казань
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/efir-kazan/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/03/12/154812/154812928.png", ВОЛЖСКИЙ+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/volzhskiy/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/03/28/156750/156750550.png", СКАТ 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/skat_24/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/04/15/158679/158679942.png", ТОЛК
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/tolk/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/04/17/158758/158758019.png", ДОН 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/don_24/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/05/15/160802/160802332.png", Хабар 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/habar_24/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/08/16/168090/168090663.png", Экспресс
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/ekspress/126/copy_a/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/05/31/161872/161872669.png", Якутия 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/yakutiya24/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/06/11/162732/162732489.png", Русский Север
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/russkiy_sever/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/06/10/162713/162713444.png", Городской
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/gorodskoy/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/06/03/162258/162258906.png", Крым 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/krym_24/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/08/13/168002/168002700.png", 1 Крымский
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/1_krymskiy/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Другие" tvg-logo="http://peers.tv/data/illustrations/ills/2019/12/05/181698/181698503.png", CGTN Русский
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/cgtn_russkiy/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/11/15/179004/179004102.png", Самотлор
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/samotlor/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/12/12/182700/182700288.png", Салям
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/salyam/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/02/04/190812/190812085.png", Регион 04
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/region_04/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/02/04/190812/190812098.png", ЗабТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/zabtv/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/02/20/192826/192826466.png", Канал 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/kanal_12/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/02/20/192827/192827284.png", Ростов-ПАПА
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/rostov_papa/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/13/199998/199998245.png", Мордовия 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/mordoviya_24/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/03/198498/198498452.png", СТС-Мир
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/sts_mir/16/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/02/198381/198381612.png", Nickelodeon!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/nickelodeon_baby/16/gvh1w/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/02/198381/198381585.png", Nick Jr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/nick_jr_baby/16/gvh1w/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://peers.tv/data/illustrations/ills/2020/03/25/197391/197391237.png", Карусель
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/karusel/16/vh2500w/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://peers.tv/data/illustrations/ills/2020/03/24/197281/197281288.png", Канал Disney
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/disney/126/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://peers.tv/data/illustrations/ills/2020/01/30/189903/189903012.png", Уникум
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/forkids/16/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/03/101215/101215003.png", Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/nickelodeon/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://peers.tv/data/illustrations/ills/2019/11/28/180764/180764503.png", Nick Jr.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/nick_jr/16/gvh1w/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://peers.tv/data/illustrations/ills/2017/11/13/108639/108639592.png", Детский мир
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/detskij_mir/16/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://peers.tv/data/illustrations/ills/2019/10/09/174233/174233354.png", СТС Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/sts_kids/16/vh2500w/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/06/103672/103672774.png", TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/tlc/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Другие" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/03/101214/101214888.png", Fashion TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/fashion/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/21/104702/104702596.png", Boomerang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/boomerang/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://peers.tv/data/illustrations/ills/2019/12/20/183789/183789159.png", Мультимания
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/multimania/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://peers.tv/data/illustrations/ills/2020/02/17/192558/192558552.png", Радость моя
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/radost_moj/16/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://peers.tv/data/illustrations/ills/2019/04/10/158186/158186162.png", СмайликТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/smayliktv/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/01/101141/101141701.png", Cartoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/cartoonnetwork/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://peers.tv/data/illustrations/ills/2015/09/02/54284/54284187.png", Мама
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/motherchi/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/04/101323/101323930.png", TiJi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/tiji/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/10/04/105653/105653196.png", Fox Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/foxlife/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/06/103672/103672832.png", Индийское кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/indiatv/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://peers.tv/data/illustrations/ills/2019/02/07/151601/151601439.png", Сказки Зайки
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/skazkizayki/16/gvh1w/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/14/102078/102078331.png", Рыжий
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/red/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://peers.tv/data/illustrations/ills/2019/08/09/167583/167583252.png", Пингвин
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/pingvin_lolo/126/vh1/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://peers.tv/data/illustrations/ills/2019/06/06/162309/162309593.png", Капитан Фантастика
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/ginger_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://peers.tv/data/illustrations/ills/2017/10/20/106785/106785512.png", В гостях у сказки
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/v_gostyah_u_skazki/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://peers.tv/data/illustrations/ills/2019/11/28/180764/180764579.png", Мамонтенок
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/mmntk/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://peers.tv/data/illustrations/ills/2018/01/10/114204/114204538.png", Мультимузыка
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/multmusic/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/21/104702/104702590.png", Baby TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/baby_tv/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/14/102078/102078123.png", О!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/o/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/21/104702/104702628.png", Jim Jam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/jim_jam/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://peers.tv/data/illustrations/ills/2019/02/07/151601/151601443.png", МУЛЬТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/mult/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Другие" tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/03/198498/198498439.png", ШАЯН ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/shayan_tv/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://peers.tv/data/illustrations/ills/2019/11/28/180764/180764548.png", Советские мультфильмы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/sovetskiemult/16/gvh1w/playlist.m3u8
+#EXTINF:-1 group-title="Другие" tvg-logo="http://peers.tv/data/illustrations/ills/2020/03/03/194538/194538978.png", СПАС
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/spas/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/02/07/191156/191156341.png", Т24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/24techno/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/01/101141/101141597.png", 24 док
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/24doc/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/09/30/173167/173167241.png", Discovery Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/discovery/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/04/101324/101324032.png", Viasat Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/viasat_nature/16/gvh1w/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/04/101324/101324025.png", Viasat History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/viasat_history/16/gvh1w/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/05/16/95798/95798735.png", DTX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/discoveryworld/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/10/31/107642/107642630.png", Discovery Science
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/discoveryscience/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/01/25/150618/150618627.png", Animal Planet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/animalplanet/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/09/101694/101694435.png", Наука 2.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/nauka_20/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/03/101214/101214990.png", National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/natgeo/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/04/101324/101324019.png", Viasat Explore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/viasat_explorer/16/gvh1w/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/11/13/108639/108639570.png", Russian Travel Guide
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/rustravel/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/01/101141/101141622.png", 365 Дней
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/365_days/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Другие" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/14/102078/102078580.png", ТНВ-Планета
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/tnv/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/08/101630/101630458.png", Моя планета
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/my_planet/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/02/12/116949/116949697.png", Da Vinci
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/da_vinci/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/04/101331/101331314.png", ВРЕМЯ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/time/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/08/101630/101630230.png", История
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/istoriya/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/08/09/167583/167583268.png", Зоо ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/zoo_tv/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/05/03/125820/125820972.png", Тайны Галактики
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/galaxy_tv/16/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/03/198498/198498467.png", Открытый Мир
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/open_mir/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/11/101829/101829311.png", Zooпарк
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/zoopark/126/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/03/198504/198504711.png", Ямал-Регион
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/yamal_region/16/gvh1w/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/10/16/175154/175154426.png", NANO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/nano_tv/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Другие" tvg-logo="http://peers.tv/data/illustrations/ills/2018/01/26/115379/115379365.png", Три ангела
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/tri_angela/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/10/20/106785/106785252.png", Russia Today Doc HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/russia_today_doc_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/05/103631/103631616.png", Russia Today Doc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/russia_today_doc/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/04/101323/101323942.png", Travel Adventure
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/travad/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/04/101331/101331297.png", ВМЕСТЕ-РФ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/vmeste_rf/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/03/101214/101214918.png", HD Наша Сибирь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/nasha_sibir_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Другие" tvg-logo="http://peers.tv/data/illustrations/ills/2016/05/30/70554/70554265.png", Беларусь 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/belarus_24/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/10/20/106785/106785594.png", Живая планета
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/zhivaya_planeta/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/08/101630/101630249.png", Красная линия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/red_line/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Другие" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/08/101630/101630475.png", Надежда
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/hopetv/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/05/25/128352/128352298.png", Твой дом
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/tvoy_dom/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/10/20/106791/106791224.png", ПРО БИЗНЕС
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/pro_biznes/16/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/08/101630/101630452.png", Московский образовательный интернет-телеканал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/dogm/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/04/22/159291/159291262.png", Восток ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/tmb_ru/16/gvh1w/playlist.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://peers.tv/data/illustrations/ills/2016/11/22/81975/81975581.png", ТелеБалтНьюс
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/tbn/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/10/20/106791/106791040.png", Миллет
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/millet/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/08/101630/101630237.png", Калейдоскоп ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/kaleydoskop/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/03/101214/101214984.png", Nat Geo Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/nat_geo_wild/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/10/20/106791/106791173.png", Первый вегетарианский
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/pervyy_vegetarianskiy/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/27/202012/202012212.png", НТВ-Право
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/ntv_pravo/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/28/105184/105184739.png", DOCUBOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/docubox/16/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/04/10/123515/123515345.png", Большая Азия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/bolshaya_aziya/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/04/20/124550/124550363.png", ЕГЭ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/ege/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/10/16/175154/175154439.png", NANO HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/nano_hd/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/06/06/162309/162309302.png", Контрольная закупка
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/kontrolnaya_zakupka/126/copy_a/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/10/20/106791/106791146.png", Настоящее страшное ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/nstv/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/14/102078/102078514.png", TVXXI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/tv21/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/28/105184/105184671.png", Amedia Premium HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/amediapremium_hd/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/28/105184/105184660.png", Amedia HIT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/amedia_hit/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2018/12/27/148476/148476015.png", a1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/amedia1/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/21/104702/104702837.png", Мужское Кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/interesnoe_tv/16/gvh1w/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/21/104703/104703598.png", TV1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/tv1000/16/gvh1w/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/22/104808/104808304.png", TV1000 Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/tv1000_action/16/gvh1w/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/21/104703/104703661.png", TV1000 Русское кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/tv_1000_rus_kino/16/gvh1w/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2018/12/27/148476/148476028.png", a2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/amedia_2/16/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/04/14/93551/93551064.png", Еврокино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/eurokino/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2020/03/27/197594/197594526.png", НТВ-Сериал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/ntv_serial/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/27/202012/202012186.png", НТВ-Хит
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/ntv_hit/16/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/10/20/106791/106791002.png", Кинопоказ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/kinopokaz/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/28/105184/105184959.png", КиноХит
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/kinohit/16/gvh1w/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/28/105184/105184982.png", Наше новое кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/nashe_novoe_kino/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/30/103163/103163491.png", Иллюзион+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/illyuzion/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/10/20/106785/106785304.png", Sony Turbo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/sony_turbo/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/28/105184/105184908.png", Киносвидание
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/kinoklub/16/gvh1w/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/27/202012/202012160.png", Кинопремьера HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/premera/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2019/05/15/160802/160802314.png", Русский роман
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/russian_roman/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/10/20/106785/106785079.png", Fox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/fox/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/10/20/106785/106785316.png", SONY TВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/set/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/10/20/106785/106785293.png", Sony Sci-Fi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/sonyscifi/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/28/105184/105184830.png", Кинокомедия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/comedytv/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/14/102078/102078319.png", Русский иллюзион
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/russian_illusion/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/10/20/106785/106785583.png", Дом кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/dom_kino/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/21/104703/104703505.png", Русский бестселлер
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/russia_best/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/21/104703/104703522.png", Русский детектив
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/russkiy_detektiv/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/10/19/106678/106678896.png", Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/ipark/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/11/101829/101829273.png", Любимое кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/favmovie/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/28/105184/105184847.png", Киномикс
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/ntv_kino_plyus/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2018/01/10/114204/114204527.png", Дорама
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/dorama/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/11/101829/101829284.png", Мир сериала
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/mir_seriala/126/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2016/09/12/77517/77517124.png", Дом кино Премиум
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/dom_kino_premium/16/gvh1w/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/28/105184/105184802.png", FILMBOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/filmbox/16/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2018/03/30/122197/122197192.png", Кино 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/kino24/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2018/12/03/146929/146929159.png", Классика Кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/klassikakino/16/gvh1w/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2018/12/03/146929/146929191.png", Советское кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/sovetskoekino/16/gvh1w/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/06/25/163873/163873400.png", СТС love
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/sts_love/126/vh2500w/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2019/04/30/159835/159835832.png", Победа
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/pobeda/16/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/28/105184/105184813.png", Filmbox Arthouse
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/filmbox_arthouse/16/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/01/198300/198300790.png", Россия 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/vesti/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/07/19/165610/165610050.png", Дождь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/rain/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/06/11/162732/162732429.png", НТН24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/region_tv/16/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/03/06/119399/119399876.png", РБК
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/rbk/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/10/07/174135/174135427.png", EuroNews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/euronews/16/vh2500w/playlist.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/12/28/185222/185222773.png", Дума ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/duma_tv/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Другие" tvg-logo="http://peers.tv/data/illustrations/ills/2015/07/16/52065/52065206.png", Russia Today
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/russiatoday/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/02/16/117332/117332522.png", Мир 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/mir24/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/05/22/128136/128136925.png", ОТВ24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/otv24_ekb/126/copy_a/playlist.m3u8
+#EXTINF:-1 group-title="Другие" tvg-logo="http://peers.tv/data/illustrations/ills/2013/12/10/26568/26568709.png", Russia Today HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/russia_today_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/09/20/171654/171654801.png", Москва-24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/moskva_24/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/09/101694/101694406.png", 360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/360tv/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/14/102078/102078348.png", Сделано в Кузбассе HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/sdelano_v_kuzbasse_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/02/11/152063/152063886.png", Новосибирские новости
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/nsknews/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/07/26/100692/100692112.png", Министерство Идей
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/minofideas/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Другие" tvg-logo="http://peers.tv/data/illustrations/ills/2017/11/17/108967/108967446.png", Atameken Business Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/atameken/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/09/06/140367/140367174.png", Известия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/izvestiya/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/02/16/117332/117332758.png", Мир 24 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/mir24hd/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/06/04/129821/129821437.png", Восток 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/vostok_24/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/08/09/167583/167583440.png", 78
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/78/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", Прибой ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/priboy_tv/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/14/102078/102078243.png", Пятница
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/friday/16/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/04/101331/101331413.png", Звезда
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/zvezda/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/04/16/158698/158698532.png", ЮТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/utv/16/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/11/30/109981/109981303.png", Диалоги о рыбалке
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/08/03/138212/138212404.png", 2x2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/2x2tv/16/vh1/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/04/14/93551/93551173.png", Мужской
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/muzhskoj/126/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/02/05/151548/151548101.png", Загородная жизнь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/zagorod_zh/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Другие" tvg-logo="http://peers.tv/data/illustrations/ills/2020/02/07/191156/191156315.png", LEOMAX24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/shop24/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/09/02/170121/170121106.png", Первый Театральный Канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/1teatr/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/14/102078/102078651.png", Успех
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/uspex/16/gvh1/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/04/101331/101331400.png", Живи
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/jv/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2013/11/06/25843/25843978.png", Investigation Discovery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/investigationdiscovery/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/04/101324/101324076.png", Авто плюс
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/auto_plus/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/06/21/163473/163473561.png", Драйв
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/drive/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/01/25/150618/150618614.png", Охота и рыбалка
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/hafi/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/08/08/138528/138528225.png", Кухня ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/kitchentv/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/08/09/167583/167583299.png", Усадьба
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/usadba/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2013/11/06/25844/25844246.png", Ностальгия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/nostalgy/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/02/12/116949/116949719.png", Оружие
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/oruzhie/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/10/24/176143/176143320.png", Сарафан
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/sarafan/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/02/12/116949/116949730.png", Телекафе
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/telekafe/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/10/27/107313/107313237.png", Zee TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/zee-tv/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/14/102078/102078361.png", Синергия ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/sinergiya_tv/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/12/11/182649/182649972.png", Психология
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/psych_21/16/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2020/02/17/192558/192558394.png", Ретро ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/retro/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/10/101724/101724295.png", Охотник и рыболов
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/ohotnik_i_rybolov/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/10/11/142765/142765617.png", Телепутешествия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/teleputeshestviya/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Другие" tvg-logo="http://peers.tv/data/illustrations/ills/2014/02/11/28818/28818960.png", Интер+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/interplus/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://peers.tv/data/illustrations/ills/2013/12/10/26568/26568531.png", GlobalStar TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/globalstartv/126/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Другие" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/04/101323/101323905.png", Shopping Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/shopping_live/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/04/14/93551/93551134.png", Авто 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/avto_24/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/10/03/173317/173317210.png", Русский Экстрим
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/ru_extrem/126/vh1/playlist.m3u8
+#EXTINF:-1 group-title="Другие" tvg-logo="http://peers.tv/data/illustrations/ills/2014/04/29/31677/31677257.png", Shop & Show
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/shop_show/16/gvh1/playlist.m3u8
+#EXTINF:-1 group-title="Другие" tvg-logo="http://peers.tv/data/illustrations/ills/2019/10/16/175154/175154413.png", Luxury
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/luxury_world/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/05/16/95798/95798783.png", Театр
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/teatr/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/14/102078/102078604.png", Точка ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/tochka_tv/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/14/102078/102078432.png", СТРК
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/strk/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2014/09/19/36942/36942381.png", Paramount Comedy HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/paramount_comedy_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/12/06/110482/110482150.png", HD Eureka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/hd_eureka/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/08/101630/101630289.png", ЛДПР.ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/ldpr_tv/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/01/17/187907/187907287.png", 9 Волна
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/devyataya_volna/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2015/04/15/47807/47807452.png", 8 канал Красноярский край
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/ya1pm/16/copy_a/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/21/104703/104703477.png", БОБЁР
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/bobyor/16/gvh1w/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/07/103704/103704170.png", ТНТ4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/tnt4/16/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2016/07/29/74504/74504848.png", Insight UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/insight_uhd/16/u2160/playlist.m3u8
+#EXTINF:-1 group-title="Другие" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/07/103704/103704159.png", Ювелирочка
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/yuvelirochka/16/gvh1/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/04/03/122743/122743366.png", Продвижение
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/prodvizhenie/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/11/28/146435/146435072.png", Наше ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/nashe_tv/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/06/20/98245/98245674.png", ТНТ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/tnt_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Другие" tvg-logo="http://peers.tv/data/illustrations/ills/2018/09/27/141757/141757039.png", Витрина ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/vitrina_tv/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/10/10/106121/106121479.png", Ратник
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/ratnik/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/11/28/146435/146435089.png", TRAVEL GUIDE-TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/travelguidetv/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/08/08/138528/138528250.png", SOCHI LIVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/sochilive/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/12/14/147551/147551355.png", ЖАРА
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/zhara/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/27/202012/202012199.png", НТВ-Стиль
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/ntv_stil/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/10/29/176991/176991389.png", Июнь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/iyun/16/copy_a/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/12/05/181698/181698451.png", Waves
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/waves/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/12/05/181698/181698464.png", Fireplace
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/fireplace/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/12/05/181698/181698477.png", Fishy Fishy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/fishy_fishy/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/09/25/172389/172389798.png", Развлечение
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/razvlechenie/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/03/27/197594/197594500.png", Муз ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/muz_tvnew/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/03/27/197594/197594513.png", 1HD Music Television
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/05/06/160266/160266748.png", Bridge TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/bridge/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/01/27/189756/189756124.png", Music Box Gold
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/musboxtv/16/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/10/05/142306/142306386.png", Europa Plus TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/europaplustv/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/10/10/142724/142724836.png", MTV Russia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/mtv_russia/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/01/22/188753/188753184.png", Music Box Russia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/musboxru/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/14/102078/102078129.png", О2ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/o2tv/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/28/105184/105184711.png", RU.TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/rutv/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/04/19/158901/158901383.png", AIVA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/aiva_tv/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2013/11/06/25842/25842812.png", VH1 Classic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/vh1/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/14/102078/102078687.png", Шансон ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/shanson/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/07/199240/199240069.png", Ля-минор
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/la_minor/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2014/03/12/29862/29862312.png", Курай
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/kuray/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/12/12/147483/147483847.png", BRIDGE TV Deluxe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/bridge_hd/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2013/11/06/25842/25842814.png", MTV Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/mtv_hits/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2013/12/02/26395/26395708.png", MTV Dance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/mtv_dance/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/06/06/162309/162309555.png", BRIDGE TV HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/dange_tv/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/03/11/195474/195474982.png", SONGTV Armenia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/mtvam/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2014/10/22/38302/38302904.png", MTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/mtv_hd/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/05/06/160266/160266824.png", BRIDGE TV Русский Хит
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/rusong_tv/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/10/04/105653/105653229.png", ТНТ Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/tnt_music/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/05/08/126491/126491713.png", Bridge TV Classic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/bridge_tv_classic/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/01/30/115729/115729318.png", Супер
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/super/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/02/27/118647/118647076.png", МатурТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/matur/126/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/08/14/168019/168019401.png", SONGTV Russia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/songtv_russia/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/06/11/162732/162732444.png", Открытый HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/otkrytyy_hd/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/11/11/178770/178770118.png", Матч ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/sport/16/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/03/04/153654/153654010.png", Матч! Страна
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/match_nash_sport/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/03/25/197391/197391255.png", Футбол
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/futbol/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/08/101630/101630302.png", Матч! Арена
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/sport1/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/03/25/197391/197391274.png", Старт
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/start/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/12/05/181698/181698548.png", PROГОНКИ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/progonki/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/08/09/167583/167583326.png", Здоровье
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/tonus_tv/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/07/18/165556/165556504.png", Eurosport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/eurosport/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/07/18/165556/165556517.png", Eurosport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/eurosport2/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/21/104703/104703539.png", Матч! Игра
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/sport_2/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/08/101630/101630283.png", КХЛ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/khl/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/10/05/142306/142306464.png", Extreme Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/extreme_sports/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/04/101331/101331278.png", Бокс ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/boks_tv/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/08/101630/101630314.png", Матч! Боец
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/boets/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/07/28/137579/137579768.png", Матч Премьер
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/nash_futbol/16/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/09/199407/199407591.png", Футбол HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/futbol_hd/126/copy_a/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/07/18/165556/165556550.png", Eurosport 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/eurosport_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://peers.tv/data/illustrations/ills/2016/01/25/62690/62690894.png", МАТЧ! Арена HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/sport_1_hd/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/02/12/191830/191830804.png", КХЛ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/kxl_hd/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/07/28/137579/137579782.png", Матч Премьер HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/nashfootballhd/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://peers.tv/data/illustrations/ills/2016/01/25/62690/62690901.png", Матч! Игра HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/hd_sport/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/04/10/123495/123495326.png", Матч! Футбол 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/match_football1_hd/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/04/10/123495/123495348.png", Матч! Футбол 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/match_football2_hd/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/04/10/123495/123495381.png", Матч! Футбол 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/match_football3_hd/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://peers.tv/data/illustrations/ills/2014/04/29/31677/31677329.png", Viasat Sport HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/viasat_sport_hd/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/07/18/165556/165556537.png", Eurosport 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/eurosport_2_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/11/11/178770/178770123.png", Матч ТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/match_tv_hd/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/03/198498/198498426.png", Fox HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/fox_hd/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2020/03/23/197215/197215066.png", Fox Life HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/foxlife_hd/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2013/11/06/25844/25844215.png", SET HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/set_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/09/30/173167/173167254.png", Discovery Channel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/discovery_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/01/28/151019/151019711.png", Animal Planet HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/animal_planet_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2013/11/06/25843/25843964.png", Travel Adventure HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/travel_adventure_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/08/14/168019/168019453.png", Приключения HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/teleputeshestvija_hd/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/10/11/142765/142765630.png", HDL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/hd_life/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://peers.tv/data/illustrations/ills/2015/09/03/54303/54303938.png", Дождь HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/rain_hd/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/09/101694/101694394.png", Еда Премиум
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/eda_hd/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Другие" tvg-logo="http://peers.tv/data/illustrations/ills/2019/08/14/168019/168019478.png", Fashion One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/fashion_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2013/11/06/25843/25843880.png", MTV Live International HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/mtv_live_hd/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/28/105184/105184688.png", MyZen HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/myzen_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://peers.tv/data/illustrations/ills/2013/11/06/25843/25843869.png", Mezzo Live HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/mezzo_live_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/11/13/108639/108639581.png", Russian Travel Guide HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/rtghd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/10/101724/101724157.png", Охотник и рыболов HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/ohotnik_i_rybolov_hd/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/28/105184/105184925.png", Киносемья
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/hd_kino/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2019/07/18/165556/165556454.png", ViP Premiere HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/tv1000_premium_hd/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2019/07/18/165556/165556441.png", ViP Megahit HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/tv1000_megahit_hd/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2019/07/18/165556/165556428.png", ViP Comedy HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/tv1000_comedy_hd/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://peers.tv/data/illustrations/ills/2014/02/11/28818/28818898.png", TLC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/tlc_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2019/07/18/165556/165556467.png", VIP Serial HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/viasat_golf_hd/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/08/14/168019/168019465.png", В мире животных HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/animal_family_hd/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://peers.tv/data/illustrations/ills/2018/08/20/139330/139330431.png", МИР PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/mir_hd/16/h720/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://peers.tv/data/illustrations/ills/2019/11/28/180764/180764516.png", Nickelodeon HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/nickelodeon_hd/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/09/30/173167/173167267.png", Discovery Science HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/discovery_science_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/01/101141/101141603.png", 43 Канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/43_kanal/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/21/104703/104703587.png", Кино ТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/kino_tv_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/28/105184/105184751.png", DOCUBOX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/docubox_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/27/202012/202012173.png", Nat Geo Wild HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/nat_geo_wild_hd/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/06/11/162732/162732471.png", Наша Тема HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/nasha_tema/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2018/04/10/123515/123515362.png", Spike HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/spike_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="http://peers.tv/data/illustrations/ills/2019/03/28/156750/156750505.png", Fan HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/fan_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/11/25/180618/180618025.png", C4K360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/c4k360_uhd/16/u2160/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/03/23/197214/197214872.png", National Geographic HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/national_geographic_hd/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Другие" tvg-logo="http://peers.tv/data/illustrations/ills/2018/12/06/146980/146980007.png", Новое телевидение
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/novoe_televidenie/318/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/03/03/194538/194538787.png", КтоКуда
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/mir_uvlecheniy/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Для взрослых (18+)" tvg-logo="http://peers.tv/data/illustrations/ills/2020/03/27/197594/197594494.png", blue HUSTLER [18+]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/bluehust/16/gvh1w/playlist.m3u8
+#EXTINF:-1 group-title="Для взрослых (18+)" tvg-logo="http://peers.tv/data/illustrations/ills/2020/03/27/197594/197594431.png", Brazzers TV Europe [18+]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/brazzers_tv_europe/16/gvh1w/playlist.m3u8
+#EXTINF:-1 group-title="Для взрослых (18+)" tvg-logo="http://peers.tv/data/illustrations/ills/2020/03/27/197594/197594466.png", Erox [18+]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/erox/16/gvh1w/playlist.m3u8
+#EXTINF:-1 group-title="Для взрослых (18+)" tvg-logo="http://peers.tv/data/illustrations/ills/2020/03/27/197594/197594477.png", blue HUSTLER (18+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/blue_hustler_18/16/gvh1w/playlist.m3u8
+#EXTINF:-1 group-title="Для взрослых (18+)" tvg-logo="http://peers.tv/data/illustrations/ills/2020/03/27/197594/197594443.png", Brazzers TV Europe (18+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/brazzers_tv_europe_18/16/gvh1w/playlist.m3u8
+#EXTINF:-1 group-title="Для взрослых (18+)" tvg-logo="http://peers.tv/data/illustrations/ills/2020/03/27/197594/197594454.png", Erox (18+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://peers.tv
+http://hls.peers.tv/streaming/erox_18/16/gvh1w/playlist.m3u8
