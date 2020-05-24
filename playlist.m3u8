@@ -1613,18 +1613,18 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_FOXLIFE/variant.m3u8?version=2
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Национальные" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1441699164458.png" tvg-id="russia-today",Russia Today
 #EXTVLCOPT:http-user-agent=SmartSDK
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RT/variant.m3u8?version=2
-#EXTINF:-1 group-title="18xxx",Babes TV HD 
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="18xxx",Babes TV HD 
 #EXTVLCOPT:http-user-agent=SmartSDK 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BABESTVHD/variant.m3u8?version=2 
-#EXTINF:-1 group-title="18xxx",Brazzers TV Europe 
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="18xxx",Brazzers TV Europe 
 #EXTVLCOPT:http-user-agent=SmartSDK 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BRAZZERSTV/variant.m3u8?version=2 
-#EXTINF:-1 group-title="18xxx",O-la-la 
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="18xxx",O-la-la 
 #EXTVLCOPT:http-user-agent=SmartSDK 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OLALA/variant.m3u8?version=2
-#EXTINF:-1 group-title="18xxx",Русская ночь 
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="18xxx",Русская ночь 
 #EXTVLCOPT:http-user-agent=SmartSDK 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2 
-#EXTINF:-1 group-title="18xxx",Шалун HD 
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="18xxx",Шалун HD 
 #EXTVLCOPT:http-user-agent=SmartSDK 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SHALUNTVHD/variant.m3u8?version=2 
