@@ -19,7 +19,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_HD/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные" tvg-id="rentv",РЕН ТВ HD
 #EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTVHD_HLS/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTVHD/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные" tvg-id="rentv",РЕН ТВ
 #EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_HLS/variant.m3u8
