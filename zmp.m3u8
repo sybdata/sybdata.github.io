@@ -1739,3 +1739,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUHD/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Фильмовые" tvg-id="serialuhd",Serial UHD
 #EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SERIALUHD/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Фильмовые" tvg-id="NASHASIBIR4K",NASHA SIBIR 4K
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
