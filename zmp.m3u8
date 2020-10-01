@@ -1706,6 +1706,30 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_OLALA/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эротические" tvg-id="exxxotica",Exxxotica HD
 #EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_EXXXOTICAHD/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Фильмовые" tvg-logo="https://i.imgur.com/OSFDBP7.png",Мосфильм. Золотая коллекция
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Фильмовые" tvg-id="mosfilm" tvg-logo="http://fe-ct.svc.iptv.rt.ru/images/broadcastChannel1598864093251.png",Мосфильм. Золотая коллекция
 #EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MOSFILM/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Фильмовые" tvg-id="arsenaltv",Арсенал HD
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ARSENALHD/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Фильмовые" tvg-id="nash-kinopokaz",Наш кинопоказ HD
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHKINOPOKAZHD/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Фильмовые" tvg-id="pro-lyubov",Про любовь HD
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PROLUBOVHD/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Фильмовые" tvg-id="blokbaster",Блокбастер HD
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BLOCKBUSTERHD/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Фильмовые" tvg-id="kamedi",Камеди HD
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_COMEDYHD/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Фильмовые" tvg-id="khit",Хит HD
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_HITHD/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Фильмовые" tvg-id="nashe-muzhskoe",Наше Мужское HD
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHEMUZHSKOEHD/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Фильмовые" tvg-id="kinopokaz",Кинопоказ HD
+#EXTVLCOPT:http-user-agent=Restream/5.20408.171030 (mag250, mag250) SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/0.30.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOPOKAZHD/variant.m3u8
