@@ -33,13 +33,13 @@ var pJS = function(tag_id, params){
         type: 'circle',
         stroke: {
           width: 0,
-          color: '#f8f8f2'
+          color: '#ffffff'
         },
         polygon: {
           nb_sides: 5
         },
         image: {
-          src: '',
+          src: 'https://raw.githubusercontent.com/sybdata/ministra-install-ubuntu-20.04/main/docker.svg',
           width: 100,
           height: 100
         }
