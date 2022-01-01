@@ -21,7 +21,7 @@ particlesJS("particles-js",
         "nb_sides": 5
       },
       "image": {
-        "src": "img/github.svg",
+        "src": "https://raw.githubusercontent.com/sybdata/ministra-install-ubuntu-20.04/main/docker.svg",
         "width": 100,
         "height": 100
       }
