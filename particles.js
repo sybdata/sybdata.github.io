@@ -27,7 +27,7 @@ var pJS = function(tag_id, params){
         }
       },
       color: {
-        value: '#fffff'
+        value: '#ffffff'
       },
       shape: {
         type: 'circle',
