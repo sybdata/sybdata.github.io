@@ -73,7 +73,7 @@ var pJS = function(tag_id, params){
       },
       move: {
         enable: true,
-        speed: 1,
+        speed: 3,
         direction: 'none',
         random: false,
         straight: false,
