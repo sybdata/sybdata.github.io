@@ -1,21 +1,26 @@
-version: '2'
+version: "2"
+
 services:
-  web:
-    image: odoo:12.0
-    depends_on:
-      - mydb
+  acestream:
+    container_name: ace
+    image: sybdata/ace86a37:ace-d8
+    tmpfs:
+     - /dev/disk/by-id:noexec,rw,size=4k
+     - /tmp/fs:noexec,rw,size=4096m
+    restart: always
     ports:
-      - "8069:8069"
+     - "6878:6878"
+     - "8621:8621"
+     - "8056:80"
+    tty: true
+  hlsproxy:
+    container_name: hlsp
+    image: sybdata/ace86a37:hlsproxy
     environment:
-    - HOST=mydb
-    - USER=odoo
-    - PASSWORD=myodoo
-  mydb:
-    image: postgres:10
-    environment:
-      - POSTGRES_DB=postgres
-      - POSTGRES_PASSWORD=myodoo
-      - POSTGRES_USER=odoo
+     - port=38050
+    restart: always
+    ports:
+     - "38050:38050"
       
 
 
