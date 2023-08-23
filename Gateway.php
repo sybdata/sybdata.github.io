@@ -55,8 +55,8 @@ final class Gateway extends WC_Payment_Gateway
         $this->form_fields = $this->adminFields();
         $this->init_settings();
 
-        $this->payment_key = $this->get_option('merOatu7jGjIaa6dUE0mkU7K4ctCL3ZXvjgpCLx2APrYMKD6FcG4twPlerrfdpktm4Ksg5v61HNWDDnC3WwrKh719DCs1zUHXHLuZRekj65GFGXlsTLH6C1ukweOQlg6');
-        $this->merchant_uuid = $this->get_option('7faa8cad-37e1-4ed6-87ba-641d11b0c563');
+        $this->payment_key = $this->get_option('payment_key');
+        $this->merchant_uuid = $this->get_option('merchant_uuid');
         $this->logo_theme = $this->get_option('logo_theme') ?: 'light';
 
         $path = str_replace(ABSPATH, '', __DIR__) . "/images/logo_$this->logo_theme.svg";
