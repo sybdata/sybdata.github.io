@@ -1,0 +1,17 @@
+title: SybData
+description: Systems, networks, Docker, and self-hosted infrastructure — a compact technical archive by sybdata.
+url: https://sybdata.github.io
+baseurl: ""
+lang: en
+timezone: Europe/Berlin
+permalink: pretty
+strict_front_matter: true
+
+plugins:
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor

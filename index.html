@@ -1,112 +1,132 @@
+---
+layout: null
+permalink: /
+---
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>SybData</title>
-  <!-- particles.js -->
-  <!-- show-your-terms.js -->
-  <script type='text/javascript' src='https://sybdata.github.io/show-your-terms.min.js'></script>
-  <!-- show-your-terms.css -->
-  <link rel='stylesheet' href='https://sybdata.github.io/show-your-terms.min.css'>
-<style>
-  body {
-    font-family: monospace;
-    font-size: 16px;
-    background-image: url("https://sybdata.github.io/darkbg.jpg");
-  }
-  a {
-    color:#287bdd; /* show-your-terms blue, used for links */
-  }
-  .outer {
-    display: table;
-    position: absolute;
-    height: 99%;
-    width: 98%;
-  }
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>SybData — systems, networks, and the web</title>
+    <meta name="description" content="Systems, networks, Docker, and self-hosted infrastructure — a compact technical archive by sybdata.">
+    <meta name="theme-color" content="#07110d">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="SybData — systems, networks, and the web">
+    <meta property="og:description" content="Technical notes, selected work, and the current focus of sybdata.">
+    <meta property="og:url" content="{{ '/' | absolute_url }}">
+    <link rel="canonical" href="{{ '/' | absolute_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#content">Skip to content</a>
 
-  .middle {
-    display: table-cell;
-    vertical-align: middle;
-  }
+    <div class="page-shell">
+      <header class="site-header" aria-label="Site header">
+        <a class="brand" href="{{ '/' | relative_url }}" aria-label="SybData home">
+          <span class="brand-mark" aria-hidden="true">&gt;_</span>
+          <span>sybdata</span>
+        </a>
+        <p class="location">technical archive <span aria-hidden="true">·</span> Hamburg</p>
+      </header>
 
-  .inner {
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 955px;
-  }
-</style>
-<body>
-  <!-- Particles -->
-  <div id="particles-js" style="width:100%;height:100%;position:fixed;z-index:-10;top:0;left:0">
-    <!-- Centering -->
-    <div class="outer">
-      <div class="middle">
-        <div class="inner">
-          <!-- Terminal -->
-          <div class='showyourterms dark' id="terminal" data-title="aleks AS♦️ -bash 955x303">
-            <div class='line green'>Computer nerd skilled in testing, 🐋Docker, Hardware & Network Maintenance.</div>
-            <div class='command' data-action='command'>pwd</div>
-            <div class='line green'>https://sybdata.github.io/</div>
-            <div class='command' data-action='command'>who</div>
-            <div class='command' data-action='command'>date</div>
-            <div class='line green'>Last Modified: March 25 2023</div>
-            <div class='command' data-action='command'>ls -al</div>
-            <div class='line red'>total 10</div>
-            <div class='line yellow'>
-              -rw-r--r--@ 1 25604568644 assembling the first computer 2010
-              <a href="https://sybdata.github.io/IntelCorei5.png">by Scythe&trade;</a>
+      <main id="content">
+        <section class="hero" aria-labelledby="hero-title">
+          <p class="eyebrow">public notebook / independent web</p>
+          <h1 id="hero-title">Systems, networks,<br>and the web — kept useful.</h1>
+          <p class="hero-copy">
+            A small, maintained entry point for technical notes and selected profiles.
+            Old experiments stay in the archive; current work lives at BPS Express.
+          </p>
+
+          <section class="terminal" aria-label="SybData overview">
+            <div class="terminal-bar" aria-hidden="true">
+              <span></span><span></span><span></span>
+              <p>sybdata@pages: ~</p>
             </div>
-            <div class='line yellow'>
-              -rw-r--r--@ 1 2560 Created first repository November 26 2016
-              <a href="https://hub.docker.com/u/sybdata">hub.docker</a>
+            <div class="terminal-body">
+              <div class="command-block">
+                <p class="command"><span class="prompt">$</span> whoami</p>
+                <p class="output">sybdata — systems, networks, Docker, and self-hosted infrastructure.</p>
+              </div>
+
+              <div class="command-block">
+                <p class="command"><span class="prompt">$</span> status --current</p>
+                <div class="status-output">
+                  <span class="status-dot" aria-hidden="true"></span>
+                  <p><strong>BPS Express</strong> — an independent publication about European sports technology, quality, and conscious choice.</p>
+                </div>
+              </div>
+
+              <div class="command-block">
+                <p class="command"><span class="prompt">$</span> ls selected-work/</p>
+                <nav class="link-grid" aria-label="Selected links">
+                  <a href="{{ '/blog/' | relative_url }}">
+                    <span class="link-label">technical-notes/</span>
+                    <span class="link-meta">archive · 2019–2022</span>
+                  </a>
+                  <a href="https://github.com/sybdata" rel="me">
+                    <span class="link-label">github/</span>
+                    <span class="link-meta">code and repositories</span>
+                  </a>
+                  <a href="https://hub.docker.com/u/sybdata" rel="me">
+                    <span class="link-label">docker-hub/</span>
+                    <span class="link-meta">container images</span>
+                  </a>
+                  <a href="https://www.credly.com/users/aleksandr-serebrennikov/badges" rel="me">
+                    <span class="link-label">credentials/</span>
+                    <span class="link-meta">verified badges</span>
+                  </a>
+                </nav>
+              </div>
+
+              <div class="command-block">
+                <p class="command"><span class="prompt">$</span> ls projects/</p>
+                <nav class="link-grid projects-grid" aria-label="Project repositories">
+                  <a href="https://github.com/sybdata/bps-onchain-commerce">
+                    <span class="link-label">bps-onchain-commerce/</span>
+                    <span class="link-meta">new · verified USDC commerce lab on Base</span>
+                  </a>
+                  <a href="https://github.com/sybdata/onchain-order">
+                    <span class="link-label">onchain-order/</span>
+                    <span class="link-meta">Next.js onchain ordering prototype</span>
+                  </a>
+                </nav>
+              </div>
             </div>
-            <div class='line yellow'>
-              -rw-r--r--@ 1 2560452663 Created first repository Dec 4 2017
-              <a href="https://github.com/sybdata">github/sybdata</a>
-            </div>
-            <div class='line green'>
-              -rw-r--r--@ 1 256041 Microsoft Windows 10 certification 2018
-              <a href="https://www.credly.com/users/aleksandr-serebrennikov/badges">Skills</a>
-            </div> 
-            <div class='line green'>
-              -rw-r--r--@ 1 256041 Microsoft Windows 10 certification 2018
-              <a href="https://sybdata.github.io/microsoft_MCP.html">MS Transcript</a>
-            </div>
-            <div class='line green'>
-              -rw-r--r--@ 1 256041 Microsoft Windows 10 certification 2018
-              <a href="https://raw.githubusercontent.com/sybdata/sybdata.github.io/master/Microsoft_Certified_Professional_Certificate_1.pdf">Microsoft Certified Professional</a>
-            </div>
-            <div class='line green'>
-              -rw-r--r--@ 1 256041 Microsoft Windows 10 certification 2018
-              <a href="https://raw.githubusercontent.com/sybdata/sybdata.github.io/master/Microsoft_Certified_Professional_Certificate_0.pdf">Microsoft Certified Solutions Associate</a>
-            </div>
-            <div class='line yellow'>
-              -rw-r--r--@ 1 256042 Deploy own self-hosted mail server 2018
-              <a href="https://mail.id500.de/">mailcow-dockerized</a>
-            </div>
-            <div class='line yellow'>
-              -rw-r--r--@ 1 25604 Deploy own self-hosted Cloud server 2018
-              <a href="https://storage.id500.de/">Real Private Cloud</a>
-            </div>
-            <div class='line yellow'>
-              -rw-r--r--@ 1 25605 Deploy own self-hosted Cloud server 2023
-              <a href="https://storage.id500.de/call/o2k3v2x9">Nextcloud Talk</a>
-            </div>
-            <div class='line yellow'>
-              -rw-r--r--@ 1 2560467 Deploy own self-hosted cloud server 2022  
-              <a target="_blank" rel="noreferrer noopener" href="https://nextcloud.com/sharing#admin@storage.id500.de" style="padding:10px;background-color:#ffffff;color:#fffff;border-radius:3px;padding-left:4px;">
-	<span style="background-image:url(https://storage.id500.de/apps/theming/image/logo?useSvg=1&v=19);width:50px;height:30px;position:relative;top:8px;background-size:contain;display:inline-block;background-repeat:no-repeat; background-position: center center;"></span>
-	Share with me via Nextcloud
-</a>
-            </div>
-            <br>
-            <div class='command active' data-action='command'>Пока!, Bye!, Ciao!, Adiós! 💞️</div>
+          </section>
+        </section>
+
+        <section class="current-work" aria-labelledby="current-title">
+          <div>
+            <p class="eyebrow">current focus</p>
+            <h2 id="current-title">A clearer home for the work that matters now.</h2>
           </div>
-         </div>
-      </div>
+          <div class="current-copy">
+            <p>
+              BPS Express is the active project: editorial research and practical guides for people choosing sports technology in Europe.
+            </p>
+            <a class="primary-link" href="https://bps.express/">
+              Visit BPS Express <span aria-hidden="true">↗</span>
+            </a>
+          </div>
+        </section>
+
+        <section class="archive-note" aria-labelledby="archive-title">
+          <p class="archive-index" aria-hidden="true">01</p>
+          <div>
+            <p class="eyebrow">about this archive</p>
+            <h2 id="archive-title">Historical notes, labelled honestly.</h2>
+            <p>
+              The blog records earlier infrastructure experiments and learning notes. It remains online for context, but commands and recommendations may be outdated. Verify them before use.
+            </p>
+          </div>
+        </section>
+      </main>
+
+      <footer class="site-footer">
+        <p>© {{ 'now' | date: '%Y' }} sybdata</p>
+        <p>Built as plain, durable web.</p>
+      </footer>
     </div>
-  </div>
-  <script src="https://sybdata.github.io/particles.js"></script>
-  <script src="https://sybdata.github.io/app.js"></script>
-</body>
+  </body>
+</html>
